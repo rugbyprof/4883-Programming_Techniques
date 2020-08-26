@@ -3,13 +3,14 @@
 
 ### Overview
 
-Find these problems on [onlinejudge.org](https://onlinejudge.org/) and solve them!
+Find these easy problems on [onlinejudge.org](https://onlinejudge.org/) and solve them!
 
-- 12372
-- 11498
-- 11172
-- 11727
-- 12403
+
+- [11172 - Relational Operator](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=23&page=show_problem&problem=2113)
+- [11498 - Division of Nlogonia](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=26&page=show_problem&problem=2493)
+- [11727 - Cost Cutting](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=117&page=show_problem&problem=2827)
+- [12372 - Packing for Holiday](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=278&page=show_problem&problem=3794)
+- [12403 - Save Setu](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=279&page=show_problem&problem=3834)
 
 
 ## Deliverables
