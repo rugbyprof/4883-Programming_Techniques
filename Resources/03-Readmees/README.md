@@ -41,13 +41,13 @@ biltong filet mignon. Shoulder chislic ground round pork burgdoggen hamburger.
 
 ### Files
 
-|   #   | File       | Description                                                |
-| :---: | ---------- | ---------------------------------------------------------- |
-|   1   | main.cpp   | solution file.                                             |
-|   2   | input      | Test input file from problem statement                     |
-|   3   | input2     | Larger test input from udebug                              |
-|   4   | input_hex  | Test file for hexograms to make sure they were right size. |
-|   5   | input_even | Test file to see if any hexograms were even.               |
+|   #   | File                       | Description                                                |
+| :---: | -------------------------- | ---------------------------------------------------------- |
+|   1   | [main.cpp](./main.cpp)     | solution file.                                             |
+|   2   | [input](./input)           | Test input file from problem statement                     |
+|   3   | [input2](./input2)         | Larger test input from udebug                              |
+|   4   | [input_hex](./input_hex)   | Test file for hexograms to make sure they were right size. |
+|   5   | [input_even](./input_even) | Test file to see if any hexograms were even.               |
 
 >I made this stuff up, so don't go reading into it to deeply
 
@@ -70,4 +70,4 @@ I used the sources to help me understand what a hexogram is, and then I used tha
 
 The above markdown will produce a README that looks like:
 
-<img src="https://cs.msutexas.edu/~griffin/zcloud/zcloud-files/example_uva_assignment_2020.png" width="600">
+<img src="https://cs.msutexas.edu/~griffin/zcloud/zcloud-files/example_uva_readme2020.png" width="600">
