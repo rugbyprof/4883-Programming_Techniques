@@ -17,16 +17,32 @@
 
 ## Course Topics
 
-TBD
+- Math
+  - Combinatorics
+  - Basic number theory
+- Standard libraries and data structures
+- Optimizations:
+  - Complete Search, Backtracking, Pruning
+  - Divide & Conquer
+  - Greedy Algorithms
+  - Dynamic programming
+- Graph algorithms:
+  - Graph Traversal
+  - Topological Sorting
+  - Connectivity
+  - Minimum Spanning Trees
+  - Shortest Paths
+- String algorithms
+- Others given time
 
 ## Grading
 
 | Categories | Portion of Course | Letter Grade | Grade Range |
 | :--------- | :---------------: | :----------: | :---------: |
-|   TBD         |                |      A       |   89-100    |
-|            |                |      B       |    79-88    |
-|            |                |      C       |    69-78    |
-|            |                |      D       |    59-68    |
+| TBD        |                   |      A       |   89-100    |
+|            |                   |      B       |    79-88    |
+|            |                   |      C       |    69-78    |
+|            |                   |      D       |    59-68    |
 |            |                   |      F       |  below 59   |
 
 
