@@ -17,8 +17,8 @@ Here are a set of onlinejudge problems that deal with a stack data structures.
 
 - Create an assignments folder.
 - For each problem:
-  - Create a folder called P01 in your assignments folder.
-  - Create a folder using the number of the problem inside P01.
+  - Create a folder called P02 in your assignments folder.
+  - Create a folder using the number of the problem inside P02.
   - Put the pdf of the problem in the folder.
   - Put your source code and any input files that you used.
   - For each problem solved create a `README.md` that describes your solution and cites sources of where you looked for help.
