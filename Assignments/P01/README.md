@@ -1,4 +1,4 @@
-## Assignment 1 - Simple Problem Set
+## Program Set 1 - Simple Problem Set
 #### Due: 08-31-2020 (Monday @ 1:00 p.m.)
 
 ### Overview
@@ -17,7 +17,8 @@ Find these easy problems on [onlinejudge.org](https://onlinejudge.org/) and solv
 
 - Create an assignments folder.
 - For each problem:
-  - Create a folder using the number of the problem.
+  - Create a folder called P01 in your assignments folder.
+  - Create a folder using the number of the problem inside P01.
   - Put the pdf of the problem in the folder.
   - Put your source code and any input files that you used.
   - For each problem solved create a `README.md` that describes your solution and cites sources of where you looked for help.
