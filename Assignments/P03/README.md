@@ -3,6 +3,8 @@
 
 ### Overview
 
+This is an easy week!
+
 Here are a set of onlinejudge problems that deal with a **queue** data structures. 
 
 |   #   | Name                                                                                                                             |
