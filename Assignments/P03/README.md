@@ -3,7 +3,7 @@
 
 ### Overview
 
-This is an easy week!
+This is an easy week (kind of)!
 
 Here are a set of onlinejudge problems that deal with a **queue** data structures. 
 
@@ -12,7 +12,10 @@ Here are a set of onlinejudge problems that deal with a **queue** data structure
 |  540  | [Team Queue](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=835&page=show_problem&problem=481)       |
 | 11988 | [Broken Keyboard](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=838&page=show_problem&problem=3139) |
 
-	
+
+
+
+
 
 ## Deliverables
 
