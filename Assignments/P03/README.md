@@ -1,5 +1,5 @@
 ## Program Set 3 - Queues
-#### Due: 09-16-2020 (Wednesday @ 1:00 p.m.)
+#### Due: 09-18-2020 (Friday @ 1:00 p.m.)
 
 ### Overview
 

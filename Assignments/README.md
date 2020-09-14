@@ -7,7 +7,7 @@
  | [A04](https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Assignments/A04) | [ Assignment 4 ](https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Assignments/A04) | [ Binary Trees](https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Assignments/A04) | [09-16-2020 (Wednesday @ 1:00 p.m.)](https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Assignments/A04) |
  | [P01](https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Assignments/P01) | [ Program Set 1 ](https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Assignments/P01) | [ Simple Problem Set](https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Assignments/P01) | [08-31-2020 (Monday @ 1:00 p.m.)](https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Assignments/P01) |
  | [P02](https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Assignments/P02) | [ Program Set 2 ](https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Assignments/P02) | [ Stacks](https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Assignments/P02) | [09-09-2020 (Wednesday @ 1:00 p.m.)](https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Assignments/P02) |
- | [P03](https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Assignments/P03) | [ Program Set 3 ](https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Assignments/P03) | [ Queues](https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Assignments/P03) | [09-16-2020 (Wednesday @ 1:00 p.m.)](https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Assignments/P03) |
+ | [P03](https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Assignments/P03) | [ Program Set 3 ](https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Assignments/P03) | [ Queues](https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Assignments/P03) | [09-18-2020 (Friday @ 1:00 p.m.)](https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Assignments/P03) |
  
     
 ## File Legend
@@ -20,4 +20,4 @@
 |xx-**T**xx | This is a ***Test***. Usually when on github, it will start out as a study guide, then get accompanied with a solution after the exam. |
 
     
-<sup>Last Updated: 2020-09-14 (Mon @ 12:56)</sup>
+<sup>Last Updated: 2020-09-14 (Mon @ 12:57)</sup>
