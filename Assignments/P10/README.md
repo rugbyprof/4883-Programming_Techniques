@@ -2,21 +2,21 @@
 #### Due: 12-08-2020 (Monday @ 8:00 a.m.)
 
 #### Each of these problems needs completed:
- - 01.[ ] 00122: Trees on the Level
- - 02.[ ] 00127: Accordian Patience
- - 03.[ ] 00514: Rails
- - 04.[ ] 00540: Team Queue
- - 05.[ ] 00673: Parentheses Balance
- - 06.[ ] 00727: Equation
- - 07.[ ] 10017: Towers of Hanoi
- - 08.[ ] 10226: Hardwood Species
- - 09.[ ] 11172: Relational Operator
- - 10.[ ] 11498: Division of Nlogonia
- - 11.[ ] 11727: Cost Cutting
- - 12.[ ] 11988: Broken Keyboard
- - 13.[ ] 12347: Binary Search Tree
- - 14.[ ] 12372: Packing for Holiday
- - 15.[ ] 12403: Save Setu
+ - `01.` [ ] 00122: Trees on the Level
+ - `02.` [ ] 00127: Accordian Patience
+ - `03.` [ ] 00514: Rails
+ - `04.` [ ] 00540: Team Queue
+ - `05.` [ ] 00673: Parentheses Balance
+ - `06.` [ ] 00727: Equation
+ - `07.` [ ] 10017: Towers of Hanoi
+ - `08.` [ ] 10226: Hardwood Species
+ - `09.` [ ] 11172: Relational Operator
+ - `10.` [ ] 11498: Division of Nlogonia
+ - `11.` [ ] 11727: Cost Cutting
+ - `12.` [ ] 11988: Broken Keyboard
+ - `13.` [ ] 12347: Binary Search Tree
+ - `14.` [ ] 12372: Packing for Holiday
+ - `15.` [ ] 12403: Save Setu
 
 #### One of the following:
  - `01.` [ ] 10183: How Many Fibs?
