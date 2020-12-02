@@ -1,7 +1,6 @@
 ## Program Set 6 - Recursion
 #### Due: 11-02-2020 (Mon @ 1:00 p.m.)
 
-
 ### Overview
 
 So I was looking for topics to discuss today and ran across "Tower of Hanoi". This was discussed A LOT when I was a young whipper snapper. It is a classical "recursive backtracking" problem.

@@ -5,15 +5,12 @@
 
 This is an easy week (kind of)!
 
-Here are a set of onlinejudge problems that deal with a **queue** data structures. 
+Here are a set of OnlineJudge problems that deal with a **queue** data structures. 
 
 |   #   | Name                                                                                                                             |
 | :---: | :------------------------------------------------------------------------------------------------------------------------------- |
 |  122  | [Trees on the Level](122.pdf)       |
 | 12347 | [Binary Search Tree](12347.pdf) |
-
-
-
 
 
 
