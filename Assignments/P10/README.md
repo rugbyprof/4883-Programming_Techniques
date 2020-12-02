@@ -18,25 +18,24 @@
  - 14.[ ] 12372: Packing for Holiday
  - 15.[ ] 12403: Save Setu
 
+#### One of the following:
+ - `01.` [ ] 10183: How Many Fibs?
+ - `02.` [ ] 10194: Football Problem
 
 #### One of the following:
- - 01.[ ] 10183: How Many Fibs?
- - 02.[ ] 10194: Football Problem
-  
-#### One of the following:
- - 01.[ ] 00920: Sunny Mountains
- - 02.[ ] 10263: Railway
+ - `01.` [ ] 00920: Sunny Mountains
+ - `02.` [ ] 10263: Railway
 
 #### One of the following:
- - 01.[ ] 110: Meta-Loopless Sorts
- - 02.[ ] 299: Train Swapping
- - 03.[ ] 450: Little Black Book
- - 04.[ ] 612: DNA Sorting
- - 05.[ ] 855: Lunch in Grid City
- - 06.[ ] 10107: What is the Median?
- - 07.[ ] 10327: Flip Sort
- - 08.[ ] 10810: Ultra-QuickSort
- - 09.[ ] 11462: Age Sort
- - 10.[ ] 11495: Bubbles and Buckets
- - 11.[ ] 11714: Blind Sorting
- - 12.[ ] 11858: Frosh Week
+ - `01.` [ ] 110: Meta-Loopless Sorts
+ - `02.` [ ] 299: Train Swapping
+ - `03.` [ ] 450: Little Black Book
+ - `04.` [ ] 612: DNA Sorting
+ - `05.` [ ] 855: Lunch in Grid City
+ - `06.` [ ] 10107: What is the Median?
+ - `07.` [ ] 10327: Flip Sort
+ - `08.` [ ] 10810: Ultra-QuickSort
+ - `09.` [ ] 11462: Age Sort
+ - `10.` [ ] 11495: Bubbles and Buckets
+ - `11.` [ ] 11714: Blind Sorting
+ - `12.` [ ] 11858: Frosh Week
