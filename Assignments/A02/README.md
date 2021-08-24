@@ -1,11 +1,11 @@
-## Assignment 2 - 1 Way Communication (you to me)
-#### Due: 08-27-2020 (Wednesday @ 9:30 a.m.)
+## Assignment 2 - Code Repository
+#### Due: 08-26-2021 (Thursday @ 2:00 p.m.)
 
 The 1 way communication is you communicating with me and others with the descriptions and instructions you push to your Github repo. This file provides the instructions that will help you format each assignments README file so they are consistent and informative. I discuss README's below.  Remember this file as a reference for turning in all of your assignments.
 
 ## Github
 
-<img src="http://cs.mwsu.edu/~griffin/zcloud/zcloud-files/Github.svg" width="150">
+<img src="https://cs.msutexas.edu/~griffin/zcloud/zcloud-files/github_2020.png" width="150">
 
 If you have had me before, and this seems **TL;DR** make sure you:
 
@@ -50,6 +50,7 @@ I use Github as a home-base for all assignments, lectures, and resources. It's b
     - `2143-OOP-yourlastname` 
     - replace the `yourlastname` with your last name to make it unique.
 - Check the box that says: "Add a README.md file"
+- The repo name is important! I have scripts that build a URL with your github username and the repo name above. If you don't follow naming conventions, it means your stuff will not be graded or counted late.
 
 #### Edit the README.md
 
@@ -69,7 +70,7 @@ If you're not familiar with `markdown` you can go [here](https://guides.Github.c
 
 ```md
 ## Albert Einstein
-#### Repo: 5443 OOP
+#### Repo: 2143 Object Oriented Repo
 #### Email: albert.einstein@yahoo.com
 #### Website: https://en.wikipedia.org/wiki/Albert_Einstein
 #### Image:

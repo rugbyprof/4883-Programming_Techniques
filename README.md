@@ -5,15 +5,15 @@
 
 
 ### General Course Info
-- __Days:__ MW 1:00 p.m. - 2:20 p.m. 
-- __Location:__ BO 320
-- [__Semester:__](https://msutexas.edu/registrar/_assets/files/pdfs/acadcal2021.pdf)Mon Aug 24<sup>th</sup> - Fri Dec 4<sup>th</sup>
-- [__Holidays:__](https://msutexas.edu/registrar/_assets/files/pdfs/acadcal2021.pdf)
-  - __Labor Day__ Mon Sep 7<sup>th</sup>
-  - __Thanks Giving:__ Wed Nov 25<sup>th</sup> - Fri Nov 27<sup>th</sup> 
-- [__Last Day for “W”:__](https://msutexas.edu/registrar/_assets/files/pdfs/acadcal2021.pdf) Fri Dec 4<sup>th</sup>
-- [__Last Day of Class:__](https://msutexas.edu/registrar/_assets/files/pdfs/acadcal2021.pdf) Fri Dec 4<sup>th</sup>
-- [__Final Exam:__](https://msutexas.edu/registrar/_assets/files/pdfs/spring20finals.pdf) Monday Dec 8<sup>th</sup>, 8:00 a.m. - 10:00 a.m.
+- __Days:__ TR 2:00 p.m. - 3:20 p.m. 
+- __Location:__ BO 109
+- [__Semester:__](https://msutexas.edu/registrar/_assets/files/pdfs/acadcal2021.pdf) Monday August 23<sup>rd</sup> - Friday December 3<sup>rd</sup>
+- [__Holidays:__](https://msutexas.edu/registrar/_assets/files/pdfs/acadcal2122.pdf)
+  - __Labor Day__ Monday September 6<sup>th</sup>
+  - __Thanksgiving__ Wednesday November 23<sup>rd</sup> - Sunday November 28<sup>th</sup> 
+- [__Last Day for “W”:__](https://msutexas.edu/registrar/_assets/files/pdfs/acadcal2122.pdf)  Friday October 25<sup>th</sup>
+- [__Last Day of Class:__](https://msutexas.edu/registrar/_assets/files/pdfs/acadcal2122.pdf) Friday December 3<sup>rd</sup>
+- [__Final Exam:__](https://msutexas.edu/registrar/_assets/files/pdfs/fall21finals.pdf) Thursday December 9<sup>th</sup> from 1:00 pm - 3:00 pm
 
 ## Course Topics
 
@@ -37,6 +37,8 @@
 
 ## Grading
 
+Will be based on number of problems solved. Full credit for on time solutions. Half credit for late submissions. Some credit for accepted solutions with issues (e.g. presentation errors),
+
 | Categories | Portion of Course | Letter Grade | Grade Range |
 | :--------- | :---------------: | :----------: | :---------: |
 | TBD        |                   |      A       |   89-100    |
@@ -45,14 +47,6 @@
 |            |                   |      D       |    59-68    |
 |            |                   |      F       |  below 59   |
 
-
->**1**. Lowest exam grade can be replaced by Final Exam grade if deemed appropriate by instructor. This is for students who attend class and participate.
->
->**2**. To earn an "A" in the course, every program must be: **1)** turned in **2)** must compile / run and **3)** must at least minimally fulfill the requirements of the assignment. This does not mean each program must receive an "A" as a grade. It simply means that "A" level work in a programming course means all programs should be completed and working. It is possible to get "C"'s and even "D"'s on multiple programs and still earn an "A" in the course, although not probable :) 
->
->**3**. The dynamic nature of the way I teach courses could result in a seperate category for Assignments. No two classes are the same and some classes need many smaller "homework" type assignments as opposed to a series of larger "programs". HOWEVER! Nothing will be changed without input and agreement from the students in the class. The only time I will make changes to the grading policy is when **1)** I feel it is in the best interest of the class and **2)** the class agrees by majority vote. 
->
->**4**. Plane ticket prices, events like weddings, or trips out of the country are not valid excuses for missing the final exam time. I will not make accommodations for anything other than an issue vetted by the dean of students. 
 
 
 ## Miscellaneous
@@ -69,3 +63,43 @@
 - Programs containing syntax errors are unacceptable and will be returned without grading (your programs must work).
 - Periodically homework assignments will be taken up and graded. It is the student's responsibility to keep up with assignments and to ask questions over the assigned work, even if absent. All homework assignments are due at the specified time that may or may not be in conjunction with a class day. All assignments / homeworks will be uploaded via Github.
 
+
+### Academic Honesty
+
+I take academic honesty very seriously. Many studies, including one by Sheilah Maramark and Mindi Barth Maline have suggested that "some students cheat because of ignorance, uncertainty, or confusion regarding what behaviors constitute dishonesty" (Maramark and Maline, Issues in Education: Academic Dishonesty Among College Students, U.S. Department of Education, Office of Research, August 1993, page 5). In an effort to reduce misunderstandings, here is a minimal list of activities that will be considered cheating in this class:
+
+- Using a source other than the optional course textbooks, the course website, or your professor to obtain credit for any assignment.
+- Copying another student's work. Simply looking over someone else's source code is copying.
+- Providing your work for another student to copy.
+- Collaboration on any assignment, unless the work is explicitly given as collaborative work. Any discussion of an assignment or project is considered collaboration.
+- Turning in someone else's work as your own work.
+- Plagiarism.
+- MSU's policy on plagiarism.  
+  - https://msutexas.edu/student-life/conduct/
+  - https://cs.msutexas.edu/documents/CMPS_Cheating_Policy.pdf
+
+## Tools to Stay Honest
+
+- Most plagiarizing, when it comes to programming, happens for two reasons:
+  - 1) You don't have a clue how to solve the problem, so you get a friend or the internet to help.
+  - 2) You didn't start early enough, and you're desperate to get something working the night before it's due, so you get a friend or the internet to help. 
+- Both are easy to fix. 
+  - 1) Come ask me to explain. I promise you're not the only one who is confused. 
+  - 2) Start early. Then when you get stuck, you can ask for help the right way!
+
+- Please read this article as it pertains to our field of computer science: [How To Code Without Plagiarizing](https://www.itbriefcase.net/how-to-code-without-plagiarizing)
+
+- Ultimately it's not cool. It's an insult to those that actually do the work. 
+- Lastly: Let me reiterate that I'm available for help ... **a lot**. No excuses. I've helped students at 1am via Slack. I'm online consistently afternoons and most nights, just shoot me a message.   
+
+## Major Points
+
+- All students need a [Github](http://github.com) account.
+- All course communication will be done via Slack or Discord.
+- All programs need to be turned in to pass the course.
+- Programs containing syntax errors are unacceptable and will be returned without grading (your programs must work).
+- Your name is required on ALL documents uploaded or turned in. Handwriting on any document is not acceptable (unless specified).
+- All files / programs created by you will end up in your assignments folder within your Github repository. 
+- Attending class is one of the primary keys to doing well in this class. Students may be dropped for excessive absences. There is no distinction made between excused and unexcused.
+- Make-up exams are not given. If I see fit, then I will replace a missed exam with your final exam test grade (but this is optional to instructor based on circumstances, attendance, participation, etc.).
+- Cheating or plagiarism on any assignment will not be tolerated.

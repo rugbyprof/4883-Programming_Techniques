@@ -1,5 +1,7 @@
-## Assignment 1 - Establishing 2 Way Communication
-#### Due: 08-26-2020 (Wednesday @ 1:00 p.m.)
+## Assignment 1 - Establishing Comms
+#### Due: 08-26-2021 (Thursday @ 2:00 p.m.) 
+
+No, the due date is NOT on a MWF. Thats ok!
 
 ## Getting Setup
 
@@ -8,9 +10,8 @@ All of these are important! So do them with expedience.
 If you have had me before, and this seems **TL;DR** make sure you:
 
 1. Are on my slack channel: https://griffin-courses.slack.com
-2. Are on my discord server: https://discord.gg/4Un4Ya
-3. Add yourself to the class roster
-4. Make sure you add an image or avatar in your slack and discord profiles. (These will also be placed into the class roster).
+2. Add yourself to the class roster
+3. Make sure you add an image or avatar to your slack profile. (These will also be placed into the class roster).
 
 ### Team Chat
 
@@ -45,21 +46,8 @@ So, **NO email!** Unless I specifically ask. Slack is your communication conduit
 
 Now that we have our communication client set up, we probably need to start getting the actual programming environment ready! We will be doing many things from the command line this semester. Windows is not known for it's command line prowess, so we need to give it some assistance.
 
-### Discord
----
 
-<img src="https://cs.msutexas.edu/~griffin/zcloud/zcloud-files/discord_icon.png" width="120">
-
-Discord specializes in text, image, video and audio communication between users in a chat channel. We will be using it as a place for us to communicate with voice chat and screen sharing. Discord can run in a browser, however that version does not work well at all for screen sharing. So I recommend you download the actual version and install it on your computer. Also, below I have provided a link to invite you to my server.
-
-- Download discord <a href="https://discord.com/new/download" target="_blank">**HERE**</a>
-- Invite to Griffin's server <a href="https://discord.gg/4Un4Ya" target="_blank">**HERE**</a>
-
-
-|                                                                                                     |                                                                                       |
-| :-------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------: |
-| <img src="https://cs.msutexas.edu/~griffin/zcloud/zcloud-files/youtube_summer_2020.png" width="50"> | <a href="https://www.youtube.com/watch?v=le_CE--Mnvs">Discord Overview / Tutorial</a> |
-
+- Invite to Griffin's Slack Channel <a href="https://join.slack.com/t/griffin-courses/shared_invite/zt-cw6fonr5-_CTN1kbgP3UaL9kRAzUICw" target="_blank">**HERE**</a>
 
 
 ### Class Roster
@@ -69,7 +57,7 @@ Discord specializes in text, image, video and audio communication between users 
 
 #### Update the Class Roster:
 
-- Here is a link to our class roster on google docs: ![](https://docs.google.com/spreadsheets/d/1gjKKgoW3O5DBNkbXMAleqO67SkNbdkOt4fNdQ6VvjKo/edit?usp=sharing) [Class Roster](https://docs.google.com/spreadsheets/d/155u4_K7cbNucB8J7AQw6BgOwFlDeoufvSHQF3afysMQ/edit?usp=sharing)
+- Here is a link to our class roster on google docs: ![](https://docs.google.com/spreadsheets/d/1gjKKgoW3O5DBNkbXMAleqO67SkNbdkOt4fNdQ6VvjKo/edit?usp=sharing) [Class Roster](https://docs.google.com/spreadsheets/d/1OA3RWgLe3chLhlOgxpSc_PwmEzln9AU-EoN83HeuKcc/edit?usp=sharing)
 
 - Update the roster by adding your information to it.
 
@@ -88,6 +76,8 @@ Add:
 
 ### Rules for emailing me:
 ---
+
+**TL;DR** I won't get back to you on email in any reasonable time. Thats why I have a chat client for coursework only.
 
 1) Open your email client.
 2) Create a new email.
