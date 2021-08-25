@@ -1,3 +1,7 @@
-## Book  - Competitive Programming 3
+## Book  - Competitive Programming Books
 
-https://cs.msutexas.edu/~griffin/cp3/
+
+| #  | Name  | Link |
+|:---:|:------|:------|
+| 1 | Competitive Programming Three | [](cp_three.pdf)|
+| 1 | Competitive Programming Handbook | [](cp_handbook.pdf) |
