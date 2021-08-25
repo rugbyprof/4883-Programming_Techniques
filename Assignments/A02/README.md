@@ -162,7 +162,7 @@ Every single folder on your repo should contain a `README.md`. This is because w
 
 ## README's For Assignments
 
-More [HERE](../../Resources/02-Readmees/README.md)
+More [HERE](../../Resources/03-Readmees/README.md)
 
 We will use the README's that you will create in every assignment folder to do the following:
 

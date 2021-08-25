@@ -10,8 +10,8 @@ All of these are important! So do them with expedience.
 If you have had me before, and this seems **TL;DR** make sure you:
 
 1. Are on my slack channel: https://griffin-courses.slack.com
-2. Add yourself to the class roster
-3. Make sure you add an image or avatar to your slack profile. (These will also be placed into the class roster).
+2. Add yourself to the class <a href="https://docs.google.com/spreadsheets/d/1jAkhTTA8b8BxF5ckkyct44jOz8PNmREB9QxGERVDSeY/edit?usp=sharing">roster</a>
+3. Make sure you add an image or avatar to your slack profile. (These will also be placed into the class <a href="https://docs.google.com/spreadsheets/d/1jAkhTTA8b8BxF5ckkyct44jOz8PNmREB9QxGERVDSeY/edit?usp=sharing">roster</a>).
 
 ### Team Chat
 
@@ -53,11 +53,11 @@ Now that we have our communication client set up, we probably need to start gett
 ### Class Roster
 ---
 
-<img src="https://cs.msutexas.edu/~griffin/zcloud/zcloud-files/google-sheets.png" width="120">
+<img src="https://cs.msutexas.edu/~griffin/zcloud/zcloud-files/google-sheets.png" width="90">
 
 #### Update the Class Roster:
 
-- Here is a link to our class roster on google docs: ![](https://docs.google.com/spreadsheets/d/1gjKKgoW3O5DBNkbXMAleqO67SkNbdkOt4fNdQ6VvjKo/edit?usp=sharing) [Class Roster](https://docs.google.com/spreadsheets/d/1jAkhTTA8b8BxF5ckkyct44jOz8PNmREB9QxGERVDSeY/edit?usp=sharing)
+- Here is a link to our class roster on google docs: <a href="https://docs.google.com/spreadsheets/d/1jAkhTTA8b8BxF5ckkyct44jOz8PNmREB9QxGERVDSeY/edit?usp=sharing"><img src="https://www.gstatic.com/images/branding/product/2x/sheets_2020q4_48dp.png" width="30">Class Roster</a>
 
 - Update the roster by adding your information to it.
 
