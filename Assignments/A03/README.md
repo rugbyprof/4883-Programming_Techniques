@@ -1,5 +1,5 @@
 ## Assignment 3 - Banner Page
-#### Due: 09-01-2021 (Wednesday @ 12:00 p.m.)
+#### Due: 08-31-2021 (Tuesday @ 2:00 p.m.)
 
 ### Overview
 
