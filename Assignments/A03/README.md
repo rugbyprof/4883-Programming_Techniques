@@ -64,13 +64,4 @@ INTO:
                                                           
 ```
 
-
-- Create your own header:
-
-```txt
-A03
-2143
-YOURLASTMNAME
-```
-
-- Turn in a banner with `A04` not by itself.
+**Usually I say make one and turn it in by itself, but just make one for next assignment!**
