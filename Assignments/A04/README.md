@@ -7,7 +7,7 @@ Go to https://onlinejudge.org/ and register with the site. After you register yo
 -  your `username` and 
 -  your `online judge id`. 
 
-The id is an integer similar to: `845581` (this is mine). After you get registered go and update the class roster with both of those values.
+The id is an integer similar to: `845581` (this is mine). You find it under the `MyAccount` link. After you get registered go and update the class roster with both of those values.
 
 <a href="https://docs.google.com/spreadsheets/d/1jAkhTTA8b8BxF5ckkyct44jOz8PNmREB9QxGERVDSeY/edit?usp=sharing"><img src="https://www.gstatic.com/images/branding/product/2x/sheets_2020q4_48dp.png" width="30">Class Roster</a>
 
