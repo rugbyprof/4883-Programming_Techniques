@@ -73,5 +73,4 @@ A03
 YOURLASTMNAME
 ```
 
-- Print it out and turn it in beginning of class Tuesday with your commented code!
-- You should upload it to github as well in a folder: `A03` that would also be in your assignments folder.
+- Turn in a banner with `A04` not by itself.
