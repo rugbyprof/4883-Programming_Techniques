@@ -81,7 +81,7 @@ If you're not familiar with `markdown` you can go [here](https://guides.Github.c
 
 ***will result in*** (avatar not included in example)
 
-<img src="https://cs.msutexas.edu/~griffin/zcloud/zcloud-files/einstein_out.png" width="300">
+<img src="https://cs.msutexas.edu/~griffin/zcloud/zcloud-files/github_example_fall_2021.png" width="300">
 
 ## Organizing Your Repo
 
