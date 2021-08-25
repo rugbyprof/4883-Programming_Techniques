@@ -1,4 +1,4 @@
-## Assignment 2 - Code Repository
+## Assignment 3 - Registern + Simple Problem 
 #### Due: 08-31-2021 (Tuesday @ 2:00 p.m.)
 
 ### Online Judge Registration
