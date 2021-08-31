@@ -6,4 +6,4 @@
 | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Resources/02_Book_Code">02_Book_Code</a>*** | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Resources/02_Book_Code"> Book Code </a>*** | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Resources/02_Book_Code"> Code For Each Chapter</a>*** | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Resources/02_Book_Code">N/A</a>*** |  |
 | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Resources/03-Readmees">03-Readmees</a>*** | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Resources/03-Readmees"> README </a>*** | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Resources/03-Readmees"> How You Should Format Them</a>*** | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Resources/03-Readmees"> None</a>*** |  |
 
-<sup>Last Updated: 2021-08-28 (Sat @ 20:19)</sup>
+<sup>Last Updated: 2021-08-31 (Tue @ 00:47)</sup>
