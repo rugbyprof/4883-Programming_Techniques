@@ -8,4 +8,4 @@
 | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Resources/04-Vectors">04-Vectors</a>*** | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Resources/04-Vectors"> Vectors and More </a>*** | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Resources/04-Vectors"> Vector methods, Iterators, using Auto</a>*** | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Resources/04-Vectors">N/A</a>*** |  |
 | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Resources/05_Dfs_Bfs">05_Dfs_Bfs</a>*** | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Resources/05_Dfs_Bfs"> DFS BFS </a>*** | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Resources/05_Dfs_Bfs"> Implementing Graph Traversals</a>*** | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Resources/05_Dfs_Bfs">N/A</a>*** |  |
 
-<sup>Last Updated: 2021-09-02 (Thu @ 07:00)</sup>
+<sup>Last Updated: 2021-09-02 (Thu @ 07:02)</sup>
