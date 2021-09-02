@@ -52,12 +52,12 @@ So you've read the problem. You are somewhere on the spectrum of understanding, 
 
 #### Output
 
-If your still struggling with solving the problem, you can start on the output. You don't need to have a full solution to work on formatting your output. And by the time you get your output formatted you may have some ideas ?!? Hopefully, anyway as it's only delaying the inevitable. On a good note, at least you're at a point where you have all of the busy work done, and you can concentrate on ~~Googling~~ solving the problem.
+If your still struggling with solving the problem, you can start on the output. You don't need to have a full solution to work on formatting your output. And by the time you get your output formatted you may have some ideas ?!? Hopefully anyway, as it's only delaying the inevitable. On a good note, at least you're at a point where you have all of the busy work done, and you can concentrate on ~~Googling~~ solving the problem.
 
-Obviously, if you already have a solid idea for solving the problem, then get at it! Just don't discount the importance of the output. IT could simply be a trivial matter of writing data to stdout. Or it could totally change your approach to solving the problem! I've had more than one problem do this to me. It was a problem that cars arrived at some time and queued up. They were processed, and then left. However they didn't leave in the same order that they arrived! It wasn't an easy fix, and I had to rethink my whole approach. The moral is don't assume anything!
+Obviously, if you already have a solid idea for solving the problem, then get at it! Just don't discount the importance of the output. It could simply be a trivial matter of writing data to stdout. Or the specified output could totally change your approach to solving the problem! I've had more than one problem do this to me. It was a problem where cars arrived at time `x, x+1, x+2 ...` and queued up. They were processed, and then left. However they didn't leave in the same order that they arrived! It wasn't an easy fix, and I had to rethink my whole approach. The moral is don't make hasty assumptions. Before totally committing to a solution, make sure you've gone through the whole problem. 
 
 
-#### How Do We Solve Problems?
+#### Is The A Magic Solution?
 
 When you figure out the solution to solving all problems, let me know! 
 
@@ -66,7 +66,7 @@ There really isn't one solitary approach. And figuring out what works for you is
 1. Understanding the problem
 2. Experience in solving problems
 
-The first one can be improved upon, but initially it's based a lot on intelligence. For example how many of you can write a recursive algorithm to sum up the digits of an integer? Almost all of you (with a couple of Google searches). Of course when I pose that question in 1063 I expect nearly all of the class to **not** see a clear solution. There are only a couple of individuals, in my time teaching, that figured it out with zero prior knowledge. However, once I tell the class that we will use `Div 10` and `Mod 10`, then show them how to apply them, it's like a collective AHA! accompanied with a feeling of "Why didn't I think of that?" It seems obvious ... **after you see it** ... or more specifically after you "**experience**" it. 
+The first one can be improved upon, but initially it's based a lot on intelligence. For example how many of you can write a recursive algorithm to sum up the digits of an integer? Almost all of you (and hopefully without Google). Of course when I pose that question in 1063 I expect nearly all of the class to **not** see a clear solution. There are only a couple of individuals, in my time teaching, that almost immediately figured it out with zero prior knowledge.  However, once I tell the class that we will use `Div 10` and `Mod 10`, then show them how to apply them, it's like a collective AHA! accompanied with a feeling of "Why didn't I think of that?" It seems obvious ... **after you see it** ... or more specifically after you "**experience**" it. 
 
 There are no known ways to significantly increase mental capacity. But if you expose yourself to problem after problem and solution after solution, you may not technically be "smarter", but you can bet you sure will come off as smart with all the cool stuff you've got crammed in your head. It won't happen in a single semester, but you can give it one heck of a start in the next 15 weeks. 
 
