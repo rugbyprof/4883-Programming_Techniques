@@ -7,4 +7,4 @@
 | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Resources/03-Readmees">03-Readmees</a>*** | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Resources/03-Readmees"> README </a>*** | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Resources/03-Readmees"> How You Should Format Them</a>*** | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Resources/03-Readmees"> None</a>*** |  |
 | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Resources/04-Vectors">04-Vectors</a>*** | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Resources/04-Vectors"> Vectors and More </a>*** | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Resources/04-Vectors"> Vector methods, Iterators, using Auto</a>*** | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Resources/04-Vectors">N/A</a>*** |  |
 
-<sup>Last Updated: 2021-09-02 (Thu @ 06:24)</sup>
+<sup>Last Updated: 2021-09-02 (Thu @ 06:27)</sup>

@@ -39,13 +39,13 @@
 
 Will be based on number of problems solved. Full credit for on time solutions. Half credit for late submissions. Some credit for accepted solutions with issues (e.g. presentation errors),
 
-| Categories | Portion of Course | Letter Grade | Grade Range |
-| :--------- | :---------------: | :----------: | :---------: |
-| TBD        |                   |      A       |   89-100    |
-|            |                   |      B       |    79-88    |
-|            |                   |      C       |    69-78    |
-|            |                   |      D       |    59-68    |
-|            |                   |      F       |  below 59   |
+| Categories      | Portion of Course | Letter Grade | Grade Range |
+| :-------------- | :---------------: | :----------: | :---------: |
+| Solved Problems |        90%        |      A       |   89-100    |
+| Github          |        10%        |      B       |    79-88    |
+|                 |                   |      C       |    69-78    |
+|                 |                   |      D       |    59-68    |
+|                 |                   |      F       |  below 59   |
 
 
 
