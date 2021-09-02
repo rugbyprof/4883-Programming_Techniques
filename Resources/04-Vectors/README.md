@@ -1,4 +1,4 @@
-## Vectors - And more (vector method,iterators,auto keyword)
+## Vectors and More - Vector methods, Iterators, using Auto 
 
 Introduction to Vectors, some vector methods, and some newer C++ syntax. Ok, not NEW syntax but not ubiquitous either. Use the example code and lists below to get a feel for what vectors offer. This tiny collection is a good example (IMHO) of what is cool in OOP. Not so much large project design (which is one aspect where OOP excels) but in creating data types that act like they were native to the language. I'll clarify what I mean in lecture.
 
