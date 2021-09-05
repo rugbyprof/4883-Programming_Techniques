@@ -1,6 +1,8 @@
 ## Resources
 
-Days Left is only accurate if the `Last Updated` date is the same as todays date. Otherwise, use the due date!| Folder | Title | Description | Due |  |
+Days Left is only accurate if the `Last Updated` date is the same as todays date. Otherwise, use the due date!
+
+| Folder | Title | Description | Due |  |
 |:------|:------|:------|:------|:-----:|
 | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Resources/01_Book">01_Book</a>*** | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Resources/01_Book"> Book  </a>*** | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Resources/01_Book"> Competitive Programming Books</a>*** | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Resources/01_Book">N/A</a>*** |  |
 | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Resources/02_Book_Code">02_Book_Code</a>*** | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Resources/02_Book_Code"> Book Code </a>*** | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Resources/02_Book_Code"> Code For Each Chapter</a>*** | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Resources/02_Book_Code">N/A</a>*** |  |

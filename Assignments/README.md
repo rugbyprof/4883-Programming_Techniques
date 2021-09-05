@@ -1,6 +1,8 @@
 ## Assignments
 
-Days Left is only accurate if the `Last Updated` date is the same as todays date. Otherwise, use the due date!| Folder | Title | Description | Due | Days Left |
+Days Left is only accurate if the `Last Updated` date is the same as todays date. Otherwise, use the due date!
+
+| Folder | Title | Description | Due | Days Left |
 |:------|:------|:------|:------|:-----:|
 | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Assignments/A05">A05</a>*** | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Assignments/A05"> Assignment 5 </a>*** | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Assignments/A05"> Traffic Lights</a>*** | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Assignments/A05"> 09-07-2021 (Tuesday @ 11:59 p.m.)</a>*** | 2 |
 | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Assignments/A06">A06</a>*** | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Assignments/A06"> Assignment 6 </a>*** | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Assignments/A06"> Jolly Jumpers</a>*** | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Assignments/A06"> 09-09-2021 (Tuesday @ 3:20 p.m.)</a>*** | 4 |
