@@ -1,5 +1,5 @@
 ## Assignment 5 - Traffic Lights
-#### Due: 09-02-2021 (Tuesday @ 3:20 p.m.)
+#### Due: 09-07-2021 (Tuesday @ 11:59 p.m.)
 
 ### Overview
 

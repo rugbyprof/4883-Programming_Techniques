@@ -1,5 +1,9 @@
 ## DFS BFS - Implementing Graph Traversals
 
+
+
+<img src="https://cs.msutexas.edu/~griffin/zcloud/zcloud-files/i-broke-it-you-fix-it.jpg" width="200">
+
 ```cpp
 #include <iostream>
 #include <queue>

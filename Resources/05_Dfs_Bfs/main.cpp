@@ -7,120 +7,69 @@
 
 using namespace std;
 
-typedef vector<int> vi;         // vector if ints
-typedef pair<int, int> ii;      // pair of ints
-typedef vector<ii> vii;         // vector of pairs
+typedef vector< int >    vi;   // vector if ints
+typedef pair< int, int > ii;   // pair of ints
+typedef vector< ii >     vii;  // vector of pairs
+typedef vector< vi >     vvi;  // vector of vectors of int
 
-const int VISITED = 1;
-const int UNVISITED = -1;
+vvi adj;       // graph represented as an adjacency list
+int n;         // number of vertices
+vi  color;     // vector of colors for graph coloring
+vi  time_in;   //
+vi  time_out;  //
+int dfs_timer = 0;
 
-// Globals are OK in the problem solving world.
-vi search_order;        // vector of ints
-vector<vii> AdjList;    // uses a vector of pairs (u=>v) (from=>to)
-
-/**
- * Description: 
- *    dfs - Depth first search on adjacency list graph
- *    This is a recursive solution
- * Params:
- *    int u : the starting node id to begin searching from
- * Returns:
- *    void : However it could return vector<int> (the search order)
- */
-void dfs(int u) {
-    search_order[u] = VISITED;
-    cout << u << " ";
-    for (int j = 0; j < (int)AdjList[u].size(); j++) {
-        ii v = AdjList[u][j];
-        // cout<<v.first<<" "<<v.second<<endl;
-        if (search_order[v.first] == UNVISITED) {
-            dfs(v.first);
+void dfs(int v) {
+    cout << "1" << endl;
+    time_in[v] = dfs_timer++;
+    color[v] = 1;
+    for (int u : adj[v]) {
+        if (color[u] == 0) {
+            dfs(u);
         }
+    }
+    cout << "2" << endl;
+    color[v] = 2;
+    time_out[v] = dfs_timer++;
+}
+
+void resetVectors(int v) {
+    if (adj.size() > 0) {
+        adj.clear();
+        adj.resize(v);
+        for (int i; i < v;i++) {
+            adj[i].resize(v);
+        }
+        color.clear();
+        color.resize(v);
+        time_in.clear();
+        time_in.resize(v);
+        time_out.clear();
+        time_out.resize(v);
     }
 }
 
-
-/**
- * Description: 
- *    bfs - Breadth first search on adjacency list graph
- *    This is an iterative solution
- * Params:
- *    int u : the starting node id to begin searching from
- * Returns:
- *    void : However it could return vector<int> (the search order)
- */
-void bfs(int u) {
-    queue<int> q;           // we use a queue in a BFS
-
-    q.push(u);              // prime the queue with our first node
-
-    while (!q.empty()) {    // ummm    
-        int s = q.front();
-        search_order[s] = VISITED;
-        q.pop();
-
-        cout << s << " ";   // for testing purposes only
-
-        for (int t = 0; t < (int)AdjList[s].size(); t++) {
-            ii v = AdjList[s][t];
-            // cout<<v.first<<" "<<v.second<<endl;
-            if (search_order[v.first] == UNVISITED) {
-                q.push(v.first);
-                search_order[v.first] = VISITED;
-            }
-        }
-    }
-
-    cout << endl;
-}
-
-/**
- * Directed Graph list representation with BFS and DFS methods
- */
 int main(int argc, char **argv) {
-    int n, m;
-    int u, v;
+    int v, e;
+    int s, t;
 
-    // read in:
-    //   n (number of nodes)
-    //   m (number of edges)
-    cin >> n >> m;
+    // get node and edge counts
+    cin >> v >> e;
 
-    // resize adj list to accomodate number of nodes
-    AdjList.resize(n + 1); 
+    cout << v << "," << e << endl;
 
-    // nodes are numbered starting at 1
-    // so we need n+1 spots since we use node
-    // nums as index.
-    search_order.resize(n + 1, UNVISITED);
+    resetVectors(v+1);
 
-    // read in edges 
-    for (int i = 0; i < m; i++) {
-        cin >> u >> v;
-        cout << u << " " << v << endl;
-
-        /**
-        *  Here u->v is the edge and pair second term can be used to store weight in
-        *  case of weighted graph. This implementation hard codes '10' as the weight
-        *  as an example.
-        */
-        AdjList[u].push_back(make_pair(v, 10));
-    }
-
-    // To print the edges stored in the adjacency list
-    for (int i = 1; i <= n; i++) {
-        for (int j = 0; j < (int)AdjList[i].size(); j++) {
-            cout << "[u:" << i << " -> v:" << AdjList[i][j].first << " w:"
-                 << AdjList[i][j].second << "]" << endl;
-        }
+    // read in edges
+    for (int i = 0; i < e; i++) {
+        cin >> s >> t;
+        cout << s << "," << t << endl;
+        adj[s][t] = 1;
     }
 
     dfs(1);
-    search_order.clear();
-    //search_order.resize(0, UNVISITED);
-    search_order.resize(n + 1, UNVISITED);
-    cout << endl;
-    bfs(1);
+
+    cout << "=====================" << endl;
 
     return 0;
 }
