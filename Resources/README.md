@@ -1,7 +1,5 @@
 ## Resources
 
-Days Left is only accurate if the `Last Updated` date is the same as todays date. Otherwise, use the due date!
-
 | Folder | Title | Description | Due |  |
 |:------|:------|:------|:------|:-----:|
 | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Resources/01_Book">01_Book</a>*** | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Resources/01_Book"> Book  </a>*** | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Resources/01_Book"> Competitive Programming Books</a>*** | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Resources/01_Book">N/A</a>*** |  |
@@ -11,4 +9,4 @@ Days Left is only accurate if the `Last Updated` date is the same as todays date
 | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Resources/05_Dfs_Bfs">05_Dfs_Bfs</a>*** | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Resources/05_Dfs_Bfs"> DFS BFS </a>*** | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Resources/05_Dfs_Bfs"> Implementing Graph Traversals</a>*** | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Resources/05_Dfs_Bfs">N/A</a>*** |  |
 | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Resources/06_Template">06_Template</a>*** | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Resources/06_Template"> Placeholder Readme </a>*** | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Resources/06_Template"> No Description</a>*** | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Resources/06_Template">N/A</a>*** |  |
 
-<sup>Last Updated: 2021-09-05 (Sun @ 01:55)</sup>
+<sup>Last Updated: 2021-09-05 (Sun @ 01:57)</sup> <sup>Days Left is only accurate if the `Last Updated` date is the same as todays date. Otherwise, use the due date!</sup> 
