@@ -10,6 +10,6 @@
 | ~<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Assignments/A05">A05</a>~ | ~<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Assignments/A05"> Assignment 5 </a>~ | ~<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Assignments/A05"> Traffic Lights</a>~ | ~<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Assignments/A05"> 09-07-2021 (Tuesday @ 11:59 p.m.)</a>~ | ---- |
 | ~<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Assignments/A06">A06</a>~ | ~<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Assignments/A06"> Assignment 6 </a>~ | ~<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Assignments/A06"> Jolly Jumpers</a>~ | ~<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Assignments/A06"> 09-09-2021 (Tuesday @ 3:20 p.m.)</a>~ | ---- |
 
-<sup>Last Updated: 2021-09-13 (Mon @ 00:25)</sup> 
+<sup>Last Updated: 2021-09-13 (Mon @ 16:38)</sup> 
 
 <sup>***Days Left is only accurate if the `Last Updated` date is the same as todays date. Otherwise, use the due date!***</sup> 
