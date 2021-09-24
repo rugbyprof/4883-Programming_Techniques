@@ -12,6 +12,6 @@
 | ~<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Assignments/A07">A07</a>~ | ~<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Assignments/A07"> Assignment 6 </a>~ | ~<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Assignments/A07"> Place The Guards</a>~ | ~<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Assignments/A07"> 09-14-2021 (Tuesday @ 3:20 p.m.)</a>~ | ---- |
 | ~<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Assignments/A08">A08</a>~ | ~<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Assignments/A08"> Program Set 8 </a>~ | ~<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Assignments/A08"> Counting Distinct Items String Processing</a>~ | ~<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Assignments/A08"> 09-21-2021 (Tuesday @ 3:20 p.m.)</a>~ | ---- |
 
-<sup>Last Updated: 2021-09-23 (Thu @ 23:07)</sup> 
+<sup>Last Updated: 2021-09-23 (Thu @ 23:08)</sup> 
 
 <sup>***Days Left is only accurate if the `Last Updated` date is the same as todays date. Otherwise, use the due date!***</sup> 
