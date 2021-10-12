@@ -14,6 +14,6 @@
 | ~<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Assignments/A10">A10</a>~ | ~<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Assignments/A10"> Program Set 10 </a>~ | ~<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Assignments/A10"> The 900's?</a>~ | ~<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Assignments/A10"> 09-30-2021 (Thursday @ 3:20 p.m.)</a>~ | ---- |
 | ~<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Assignments/A11">A11</a>~ | ~<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Assignments/A11"> Program Set 11 </a>~ | ~<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Assignments/A11"> Dynamic Programming</a>~ | ~<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Assignments/A11"> 10-07-2021 (Thursday @ 3:20 p.m.)</a>~ | ---- |
 
-<sup>Last Updated: 2021-10-08 (Fri @ 16:09)</sup> 
+<sup>Last Updated: 2021-10-11 (Mon @ 23:28)</sup> 
 
 <sup>***Days Left is only accurate if the `Last Updated` date is the same as todays date. Otherwise, use the due date!***</sup> 
