@@ -1,4 +1,4 @@
-## Sorting Fun
+## Sorting Fun - Comparing Sorts
 
 
 - https://www.programiz.com/dsa/quick-sort
