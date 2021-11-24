@@ -39,14 +39,14 @@
 
 Will be based on number of problems solved. Full credit for on time solutions. Half credit for late submissions. Some credit for accepted solutions with issues (e.g. presentation errors),
 
-| Categories      | Portion of Course | Letter Grade | Grade Range |
-| :-------------- | :---------------: | :----------: | :---------: |
-| Solved Problems |        90%        |      A       |   89-100    |
-| Github          |        10%        |      B       |    79-88    |
-| Participation   |        5%         |      C       |    69-78    |
-|                 |                   |      D       |    59-68    |
-|                 |                   |      F       |  below 59   |
-|                 |                   |              |             |
+| Categories      | Portion of Course |  \|\|   | Letter Grade | Grade Range |
+| :-------------- | :---------------: | --- | :----------: | :---------: |
+| Solved Problems |        65%        |  \|\|   |      A       |   89-100    |
+| Github          |        10%        |  \|\|   |      B       |    79-88    |
+| Participation   |        5%         |  \|\|   |      C       |    69-78    |
+| Presentation    |        10%        |  \|\|   |      D       |    59-68    |
+| Project         |        10%        |  \|\|   |      F       |  below 59   |
+|                 |                   |  \|\|   |              |             |
 
 >**Participation**: Obviously this has to do with going to class, asking questions, and generally being a physical part of class. But even more importantly it has to do with interacting with our class on Slack. Responding to queries on Slack either with text response or an emoticon reaction to a post. Asking me questions with direct message is a huge help, as I can turn that into (what the military calls) an "overhead correction". Most questions help bring to my attention things that need clarification for everyone. I will be gauging everyone's participation and the best guarantee is on slack as that creates a digital record.
 
