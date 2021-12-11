@@ -94,6 +94,10 @@ struct sortCompare {
 int main() {
     sortCompare SC;
 
+
+
+
+
     for (int i = 0; i < SC.sortNames.size(); i++) {
         SC.callSortMethod(SC.sortNames[i]);
     }
