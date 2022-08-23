@@ -5,35 +5,35 @@
 
 
 ### General Course Info
-- __Days:__ TR 2:00 p.m. - 3:20 p.m. 
-- __Location:__ BO 109
-- [__Semester:__](https://msutexas.edu/registrar/_assets/files/pdfs/acadcal2021.pdf) Monday August 23<sup>rd</sup> - Friday December 3<sup>rd</sup>
-- [__Holidays:__](https://msutexas.edu/registrar/_assets/files/pdfs/acadcal2122.pdf)
-  - __Labor Day__ Monday September 6<sup>th</sup>
-  - __Thanksgiving__ Wednesday November 23<sup>rd</sup> - Sunday November 28<sup>th</sup> 
-- [__Last Day for “W”:__](https://msutexas.edu/registrar/_assets/files/pdfs/acadcal2122.pdf)  Friday October 25<sup>th</sup>
-- [__Last Day of Class:__](https://msutexas.edu/registrar/_assets/files/pdfs/acadcal2122.pdf) Friday December 3<sup>rd</sup>
-- [__Final Exam:__](https://msutexas.edu/registrar/_assets/files/pdfs/fall21finals.pdf) Thursday December 9<sup>th</sup> from 1:00 pm - 3:00 pm
+- __Days:__ TTh 11:00 a.m. - 12:20 p.m. 
+- __Location:__ BO 103
+- [__Semester:__](https://msutexas.edu/registrar/_assets/files/pdfs/acadcal2223.pdf) Monday August 22<sup>nd</sup> - Friday December 2<sup>nd</sup>
+- [__Holidays:__](https://msutexas.edu/registrar/_assets/files/pdfs/acadcal2223.pdf)
+  - __Labor Day__ Monday September 5<sup>th</sup>
+  - __Thanksgiving__ Wednesday November 23<sup>rd</sup> - Sunday November 27<sup>th</sup> 
+- [__Last Day for “W”:__](https://msutexas.edu/registrar/_assets/files/pdfs/acadcal2223.pdf)  Friday October 24<sup>th</sup>
+- [__Last Day of Class:__](https://msutexas.edu/registrar/_assets/files/pdfs/acadcal2223.pdf) Friday December 2<sup>nd</sup>
+- [__Final Exam:__](https://msutexas.edu/registrar/_assets/files/pdfs/fall21finals.pdf) Tuesday December 6<sup>th</sup> from 1:00 pm - 3:00 pm
 
 ## Course Topics
 
-- Math
-  - Combinatorics
-  - Basic number theory
-- Standard libraries and data structures
-- Optimizations:
-  - Complete Search, Backtracking, Pruning
-  - Divide & Conquer
-  - Greedy Algorithms
-  - Dynamic programming
-- Graph algorithms:
-  - Graph Traversal
-  - Topological Sorting
-  - Connectivity
-  - Minimum Spanning Trees
-  - Shortest Paths
-- String algorithms
-- Others given time
+- [ ] Math
+  - [ ] Combinatorics
+  - [ ] Basic number theory
+- [ ] Standard libraries and data structures
+- [ ] Optimizations:
+  - [ ] Complete Search, Backtracking, Pruning
+  - [ ] Divide & Conquer
+  - [ ] Greedy Algorithms
+  - [ ] Dynamic programming
+- [ ] Graph algorithms:
+  - [ ] Graph Traversal
+  - [ ] Topological Sorting
+  - [ ] Connectivity
+  - [ ] Minimum Spanning Trees
+  - [ ] Shortest Paths
+- [ ] String algorithms
+- [ ] Others given time
 
 ## Grading
 
@@ -67,21 +67,7 @@ Will be based on number of problems solved. Full credit for on time solutions. H
 - Periodically homework assignments will be taken up and graded. It is the student's responsibility to keep up with assignments and to ask questions over the assigned work, even if absent. All homework assignments are due at the specified time that may or may not be in conjunction with a class day. All assignments / homeworks will be uploaded via Github.
 
 
-### Academic Honesty
-
-I take academic honesty very seriously. Many studies, including one by Sheilah Maramark and Mindi Barth Maline have suggested that "some students cheat because of ignorance, uncertainty, or confusion regarding what behaviors constitute dishonesty" (Maramark and Maline, Issues in Education: Academic Dishonesty Among College Students, U.S. Department of Education, Office of Research, August 1993, page 5). In an effort to reduce misunderstandings, here is a minimal list of activities that will be considered cheating in this class:
-
-- Using a source other than the optional course textbooks, the course website, or your professor to obtain credit for any assignment.
-- Copying another student's work. Simply looking over someone else's source code is copying.
-- Providing your work for another student to copy.
-- Collaboration on any assignment, unless the work is explicitly given as collaborative work. Any discussion of an assignment or project is considered collaboration.
-- Turning in someone else's work as your own work.
-- Plagiarism.
-- MSU's policy on plagiarism.  
-  - https://msutexas.edu/student-life/conduct/
-  - https://cs.msutexas.edu/documents/CMPS_Cheating_Policy.pdf
-
-## Tools to Stay Honest
+## My View on Cheating / Plagiarism
 
 - Most plagiarizing, when it comes to programming, happens for two reasons:
   - 1) You don't have a clue how to solve the problem, so you get a friend or the internet to help.
@@ -91,9 +77,29 @@ I take academic honesty very seriously. Many studies, including one by Sheilah M
   - 2) Start early. Then when you get stuck, you can ask for help the right way!
 
 - Please read this article as it pertains to our field of computer science: [How To Code Without Plagiarizing](https://www.itbriefcase.net/how-to-code-without-plagiarizing)
-
+- Also, this might help: plagiarize and get an "F".  
+  - https://msutexas.edu/student-life/conduct/
+  - https://cs.msutexas.edu/documents/CMPS_Cheating_Policy.pdf
 - Ultimately it's not cool. It's an insult to those that actually do the work. 
 - Lastly: Let me reiterate that I'm available for help ... **a lot**. No excuses. I've helped students at 1am via Slack. I'm online consistently afternoons and most nights, just shoot me a message.   
+
+
+## Official Policy on Academic Honesty
+
+The Department of Computer Science had adopted the following policy related to cheating (academic misconduct). The policy will be applied to all instances of cheating on assignments and exams as determined by the instructor of the course. (See below for link to MSU definitions.)
+- 1st instance of cheating in a course: The student will be assigned a non-replaceable grade of zero for the assignment, project or exam. If the resulting grade does not result in a letter grade reduction, the student will receive a one letter grade reduction in course.
+- 2nd instance of cheating in a course: The student will receive a grade of F in course & immediately be removed from course.
+- All instances of cheating will be reported to the Department Chair and, in the case of graduate students, to the Department Graduate Coordinator.
+  
+## Official Policy on Testing Process
+
+The Department of Computer Science has adopted the following policy related to testing.
+- All bags, purses, electronics (turned off), books, etc. will be placed in the front of the room during exams, or in an area designated by the instructor.
+- Unless otherwise announced by the instructor, nothing is allowed on the desk but pen/pencil/eraser and test papers. 
+- No student is allowed to leave the room during an exam and return.
+ 
+>See Also:   MSU Student Handbook: Appendix E: [Academic Misconduct Policy & Procedures](https://msutexas.edu/student-life/_assets/files/handbook.pdf).
+
 
 ## Major Points
 
