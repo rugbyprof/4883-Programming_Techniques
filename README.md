@@ -1,7 +1,7 @@
 # 4883-Programming Techniques
 
 ### Roster
-<a href="https://docs.google.com/spreadsheets/d/1jAkhTTA8b8BxF5ckkyct44jOz8PNmREB9QxGERVDSeY/edit?usp=sharing"><img src="https://www.gstatic.com/images/branding/product/2x/sheets_2020q4_48dp.png" width="30">Class Roster</a>
+<a href="https://docs.google.com/spreadsheets/d/1ZSb80ex5PWo0k2JDLRdoVH0bdJdUC7o8E1tGXCNVWYw/edit?usp=sharing"><img src="https://www.gstatic.com/images/branding/product/2x/sheets_2020q4_48dp.png" width="30">Class Roster</a>
 
 
 ### General Course Info
@@ -13,7 +13,7 @@
   - __Thanksgiving__ Wednesday November 23<sup>rd</sup> - Sunday November 27<sup>th</sup> 
 - [__Last Day for “W”:__](https://msutexas.edu/registrar/_assets/files/pdfs/acadcal2223.pdf)  Friday October 24<sup>th</sup>
 - [__Last Day of Class:__](https://msutexas.edu/registrar/_assets/files/pdfs/acadcal2223.pdf) Friday December 2<sup>nd</sup>
-- [__Final Exam:__](https://msutexas.edu/registrar/_assets/files/pdfs/fall21finals.pdf) Tuesday December 6<sup>th</sup> from 1:00 pm - 3:00 pm
+- [__Final Exam:__](https://msutexas.edu/registrar/_assets/files/pdfs/fall22finals.pdf) Tuesday December 6<sup>th</sup> from 1:00 pm - 3:00 pm
 
 ## Course Topics
 
