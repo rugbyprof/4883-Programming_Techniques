@@ -1,7 +1,7 @@
-## Assignment 5  - Easy Breezy
+## Assignment 4  - Easy Breezy
 #### Due: 12-02-2022 (Friday) @ 11:00 a.m.)
 
-### Overview
+### Overviews
 
 Below is a list of 30 problems, all EASY. Have 10 of these done by semesters end.
 
