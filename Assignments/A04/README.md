@@ -1,68 +1,45 @@
-## Assignment 4 - Register + Simple Problem 
-#### Due: 08-31-2021 (Tuesday @ 2:00 p.m.)
+## Assignment 5  - Easy Breezy
+#### Due: 12-02-2022 (Friday) @ 11:00 a.m.)
 
-### Online Judge Registration
+### Overview
 
-Go to https://onlinejudge.org/ and register with the site. After you register you will need to remember:
--  your `username` and 
--  your `online judge id`. 
+Below is a list of 30 problems, all EASY. Have 10 of these done by semesters end.
 
-The id is an integer similar to: `845581` (this is mine). You find it under the `MyAccount` link. After you get registered go and update the class roster with both of those values.
-
-<a href="https://docs.google.com/spreadsheets/d/1jAkhTTA8b8BxF5ckkyct44jOz8PNmREB9QxGERVDSeY/edit?usp=sharing"><img src="https://www.gstatic.com/images/branding/product/2x/sheets_2020q4_48dp.png" width="30">Class Roster</a>
-
-If you don't fix the class roster with those values, then I cannot see what you have turned in. This has the side effect of you getting zeros for all assignments due before you provided me with the proper information.
-
-## Online Judge First Problem
-
-- Number:
-  - 10055 
-- Name:
-  - Hashmat the brave warrior
-- URL:
-  - https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=996
-- UDebug
-  - https://www.udebug.com/UVa/10055
-
-Read about Hashmat in the provided pdf and make changes to the code below to correctly solve the problem. The code below works, but will not provide a correct answer. This fact will be exposed if you attempt running it with the uDebug input data sets.
-
-### Starter Code
-```cpp
-/**
-* Name
-* Course
-* Date
-*/
-#include <iostream>
-
-#define endl "\n"
-
-using namespace std;
-
-int main() {
-    int B = 0, A = 0;
-    
-    while (cin >> A >> B) {
-        
-        // your stuff here
-
-    }
-    return 0;
-}
-```
+* 00100 - The 3n + 1 problem
+* 00272 - TEX Quotes
+* 00575 - Skew Binary
+* 10035 - Primary Arithmetic
+* 10055 - Hashmat the Brave Warrior
+* 10071 - Back to High School Physics
+* 10302-- Summation of Polynomials
+* 10346 - Peter's Smokes
+* 10370 - Above Average
+* 10773 - Back to Intermediate Math
+* 10783 - Odd Sum
+* 10931 - Parity
+* 11044 - Searching for Nessy
+* 11172 - Relational Operator
+* 11498 - Division of Nlogonia
+* 11547 - Automatic Answer
+* 11614 - Etruscan Warriors Never Play Chess
+* 11636 - Hello World!
+* 11727 - Cost Cutting
+* 11764 - Jumping Mario
+* 11777 - Automate the Grades
+* 11799 - Horror Dash
+* 11805 - Bafana Bafana
+* 11854 - Egypt
+* 11875 - Brick Game
+* 12250 - Language Detection
+* 12289 - One-Two-Three
+* 12403 - Save Setu
+* 12577 - Hajj-e-Akbar
+* 12578 - 10:6:2
 
 ### Deliverables
 
-- Create a folder called `P10055` in your `assignments` folder.
+- Create a folder called `P`(problem_number) in your `assignments` folder.
 - Place the pdf, your solution code, and any input files you used in this folder.
 - Make sure you create an acceptable [README](../../Resources/03-Readmees/README.md) file for this project (presentation is everything!)
 - Commit this content to your github repo by the due date.
-- Bring a printout of your Banner + source file (only no input files).
 
-#### Banner
-
-```txt
-P10055
-4883
-YOURLASTMNAME
-```

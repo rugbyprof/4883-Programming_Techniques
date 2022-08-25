@@ -1,5 +1,5 @@
 ## Assignment 5 - Traffic Lights
-#### Due: 09-07-2021 (Tuesday @ 11:59 p.m.)
+#### Due: 09-01-2022 (Thursday @ 11:00 a.m.)
 
 ### Overview
 
@@ -57,7 +57,7 @@ If your still struggling with solving the problem, you can start on the output. 
 Obviously, if you already have a solid idea for solving the problem, then get at it! Just don't discount the importance of the output. It could simply be a trivial matter of writing data to stdout. Or the specified output could totally change your approach to solving the problem! I've had more than one problem do this to me. It was a problem where cars arrived at time `x, x+1, x+2 ...` and queued up. They were processed, and then left. However they didn't leave in the same order that they arrived! It wasn't an easy fix, and I had to rethink my whole approach. The moral is don't make hasty assumptions. Before totally committing to a solution, make sure you've gone through the whole problem. 
 
 
-#### Is The A Magic Solution?
+#### Is There A Magic Solution?
 
 When you figure out the solution to solving all problems, let me know! 
 

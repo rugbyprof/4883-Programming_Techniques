@@ -1,79 +1,70 @@
-## Assignment 3 - Banner Page
-#### Due: 08-31-2021 (Tuesday @ 2:00 p.m.)
+## Assignment 3B - Register + Simple Problem 
+#### Due: 08-30-2022 (Tuesday @ 11:00 a.m.) 
 
-### Overview
+## Part 1: [Banner](banner.md)
 
-- We need a way to print out our program banner cover pages to put on assignments. I found a VSCode Extension called  `Banner Comments +` that will let us do it right in the editor. 
+## Part 2: Online Judge Registration
 
-- Install `Banner Comments +` by clicking on the extensions icon on the left:
-  
-- Open VSCode Extenstions:
-<p><img src="https://cs.msutexas.edu/~griffin/zcloud/zcloud-files/vscode_extension_sp_2020.png" height="300"></p>
+Go to https://onlinejudge.org/ and register with the site. After you register you will need to remember:
+-  your `username` and 
+-  your `online judge id`. 
 
-- Search then install the Banner Comments+ extension:
-<p><img src="https://cs.msutexas.edu/~griffin/zcloud/zcloud-files/vscode_banner2_ext_sp_2020.png" height="300"></p>
+The id is an integer similar to: `845581` (this is mine). You find it under the `MyAccount` link. After you get registered go and update the class roster with both of those values.
 
-- After it's installed, set the default font by pressing `shift + ctrl + p` 
-- Then type `banner` which gives you all the banner commands.
-- Then choose set default font.
-<p><img src="https://cs.msutexas.edu/~griffin/zcloud/zcloud-files/vscode_banner_set_font_sp_2020.png" height="300"></p>
+<a href="https://docs.google.com/spreadsheets/d/1ZSb80ex5PWo0k2JDLRdoVH0bdJdUC7o8E1tGXCNVWYw/edit?usp=sharing"><img src="https://www.gstatic.com/images/branding/product/2x/sheets_2020q4_48dp.png" width="30">Class Roster</a>
 
-- Set the default font as any of the `big money` fonts
-- We can change it, if someone finds a better one.
-<p><img src="https://cs.msutexas.edu/~griffin/zcloud/zcloud-files/vscode_banner_choose_font_sp_2020.png" height="300"></p>
+If you don't fix the class roster with those values, then I cannot see what you have turned in. This has the side effect of you getting zeros for all assignments due before you provided me with the proper information.
 
+## Online Judge First Problem
 
-- Then in any file you can type some text, **highlight it**.
-- Type `shift + ctrl + p` 
-- Choose `BannerComments: Apply` 
-- It will change (for example ) the text below into a banner!
+- Number:
+  - 10055 
+- Name:
+  - Hashmat the brave warrior
+- URL:
+  - https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=996
+- UDebug
+  - https://www.udebug.com/UVa/10055
 
-**Turn This**:
+Read about Hashmat in the provided pdf and make changes to the code below to correctly solve the problem. The code below works, but will not provide a correct answer. This fact will be exposed if you attempt running it with the uDebug input data sets.
+
+### Starter Code
+```cpp
+/**
+* Name
+* Course
+* Date
+*/
+#include <iostream>
+
+#define endl "\n"
+
+using namespace std;
+
+int main() {
+    int B = 0, A = 0;
+    
+    while (cin >> A >> B) {
+        
+        // your stuff here
+
+    }
+    return 0;
+}
 ```
-P10055
-4883
-LOIC
-```
 
-**INTO THIS**: 
+### Deliverables
 
-(font = big money ne)
+- Create a folder called `P10055` in your `assignments` folder.
+- Place the pdf, your solution code, and any input files you used in this folder.
+- Make sure you create an acceptable [README](../../Resources/03-Readmees/README.md) file for this project (presentation is everything!)
+- Commit this content to your github repo by the due date.
+- Bring a printout of your Banner + source file (only no input files).
+
+#### Banner
 
 ```txt
- 
-  /$$$$$$$    /$$    /$$$$$$   /$$$$$$  /$$$$$$$  /$$$$$$$ 
- | $$__  $$ /$$$$   /$$$_  $$ /$$$_  $$| $$____/ | $$____/ 
- | $$  \ $$|_  $$  | $$$$\ $$| $$$$\ $$| $$      | $$      
- | $$$$$$$/  | $$  | $$ $$ $$| $$ $$ $$| $$$$$$$ | $$$$$$$ 
- | $$____/   | $$  | $$\ $$$$| $$\ $$$$|_____  $$|_____  $$
- | $$        | $$  | $$ \ $$$| $$ \ $$$ /$$  \ $$ /$$  \ $$
- | $$       /$$$$$$|  $$$$$$/|  $$$$$$/|  $$$$$$/|  $$$$$$/
- |__/      |______/ \______/  \______/  \______/  \______/ 
-                                                           
-                                                           
-                                                           
-  /$$   /$$  /$$$$$$   /$$$$$$   /$$$$$$                   
- | $$  | $$ /$$__  $$ /$$__  $$ /$$__  $$                  
- | $$  | $$| $$  \ $$| $$  \ $$|__/  \ $$                  
- | $$$$$$$$|  $$$$$$/|  $$$$$$/   /$$$$$/                  
- |_____  $$ >$$__  $$ >$$__  $$  |___  $$                  
-       | $$| $$  \ $$| $$  \ $$ /$$  \ $$                  
-       | $$|  $$$$$$/|  $$$$$$/|  $$$$$$/                  
-       |__/ \______/  \______/  \______/                   
-                                                           
-                                                           
-                                                           
-  /$$        /$$$$$$  /$$$$$$  /$$$$$$                     
- | $$       /$$__  $$|_  $$_/ /$$__  $$                    
- | $$      | $$  \ $$  | $$  | $$  \__/                    
- | $$      | $$  | $$  | $$  | $$                          
- | $$      | $$  | $$  | $$  | $$                          
- | $$      | $$  | $$  | $$  | $$    $$                    
- | $$$$$$$$|  $$$$$$/ /$$$$$$|  $$$$$$/                    
- |________/ \______/ |______/ \______/                     
-                                                           
-                                                          
-                                                          
+P10055
+4883
+YOURLASTMNAME
 ```
-
-**Usually I say make one and turn it in by itself, but just make one for next assignment!**

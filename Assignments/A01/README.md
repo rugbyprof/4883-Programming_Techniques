@@ -1,7 +1,7 @@
 ## Assignment 1 - Establishing Comms
-#### Due: 08-26-2021 (Thursday @ 2:00 p.m.) 
+#### Due: 08-29-2022 (Monday @ 5:00 p.m.) 
 
-No, the due date is NOT on a MWF. Thats ok!
+No, the due date is NOT on a TTh. Thats ok!
 
 ## Getting Setup
 
@@ -11,13 +11,13 @@ If you have had me before, and this seems **TL;DR** make sure you:
 
 1. Are on my slack channel: https://griffin-courses.slack.com
 2. Add yourself to the class <a href="https://docs.google.com/spreadsheets/d/1jAkhTTA8b8BxF5ckkyct44jOz8PNmREB9QxGERVDSeY/edit?usp=sharing">roster</a>
-3. Make sure you add an image or avatar to your slack profile. (These will also be placed into the class <a href="https://docs.google.com/spreadsheets/d/1jAkhTTA8b8BxF5ckkyct44jOz8PNmREB9QxGERVDSeY/edit?usp=sharing">roster</a>).
+3. Make sure you add an image or avatar to your slack profile. (These will also be placed into the class <a href="https://docs.google.com/spreadsheets/d/1ZSb80ex5PWo0k2JDLRdoVH0bdJdUC7o8E1tGXCNVWYw/edit?usp=sharing">roster</a>).
 
 ### Team Chat
 
 ---
 
-<img src="http://cs.mwsu.edu/~griffin/zcloud/zcloud-files/slack_icon.png" width="120">
+<img src="http://cs.msutexas.edu/~griffin/zcloud/zcloud-files/slack_icon.png" width="120">
 
 
 The first step in doing well in any of my courses is establishing a base of communication. Why? Not everything can be done while we are in class.

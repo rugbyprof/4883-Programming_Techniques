@@ -1,16 +1,13 @@
-## Assignment 6 - Jolly Jumpers
-#### Due: 09-09-2021 (Tuesday @ 3:20 p.m.)
+## Assignment 6 - Hardwood Species
+#### Due: 09-08-2022 (Thursday @ 11:00 a.m.)
 
 ### Overview
 
-[PDF](10038.pdf)
+[PDF](p10226.pdf)
 
-### Vectors
 
-This problem can use arrays or vectors as part of its solution. Not sure what the fastest solutions use, but I went the route of using a lookup table to help me solve the problem. I have invited the world famous Professor Simpson to discuss the use of vectors in C++, and I figure since the problem is so easy to solve, it would be a good place to use vectors if you're not familiar with them.
+### Hardwood Species
 
-[Vectors Methods](../../Resources/04-Vectors/README.md)
-[Vectors examples 1](../../Resources/04-Vectors/vectors_01.cpp)
-[Vectors examples 2](../../Resources/04-Vectors/vectors_02.cpp)
-[Vectors examples 3](../../Resources/04-Vectors/vectors_03.cpp)
+- The trauma of reading this input is still with me. 
+- However, this is a good example of using STL Maps Vectors and Pairs as part of the solution.
 
