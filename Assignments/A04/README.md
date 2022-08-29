@@ -5,9 +5,9 @@
 
 Below is a list of 30 problems, all EASY. Have 10 of these done by semesters end.
 
-* [00100](https://cs.msutexas.edu/uva/api/pdfs/100.pdf) - The 3n + 1 problem
-* [00272](https://cs.msutexas.edu/uva/api/pdfs/272.pdf) - TEX Quotes
-* [00575](https://cs.msutexas.edu/uva/api/pdfs/575.pdf) - Skew Binary
+* [00100](https://cs.msutexas.edu/uva/api/pdfs/001/100.pdf) - The 3n + 1 problem
+* [00272](https://cs.msutexas.edu/uva/api/pdfs/002/272.pdf) - TEX Quotes
+* [00575](https://cs.msutexas.edu/uva/api/pdfs/005/575.pdf) - Skew Binary
 * [10035](https://cs.msutexas.edu/uva/api/pdfs/100/10035.pdf) - Primary Arithmetic
 * [10055](https://cs.msutexas.edu/uva/api/pdfs/100/10055.pdf) - Hashmat the Brave Warrior
 * [10071](https://cs.msutexas.edu/uva/api/pdfs/100/10071.pdf) - Back to High School Physics
