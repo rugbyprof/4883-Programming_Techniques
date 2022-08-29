@@ -11,12 +11,12 @@ Below is a list of 30 problems, all EASY. Have 10 of these done by semesters end
 * [10035](https://cs.msutexas.edu/uva/api/pdfs/100/10035.pdf) - Primary Arithmetic
 * [10055](https://cs.msutexas.edu/uva/api/pdfs/100/10055.pdf) - Hashmat the Brave Warrior
 * [10071](https://cs.msutexas.edu/uva/api/pdfs/100/10071.pdf) - Back to High School Physics
-* [10302](https://cs.msutexas.edu/uva/api/pdfs/100/10302.pdf)-- Summation of Polynomials
-* [10346](https://cs.msutexas.edu/uva/api/pdfs/100/10346.pdf) - Peter's Smokes
-* [10370](https://cs.msutexas.edu/uva/api/pdfs/100/10370.pdf) - Above Average
-* [10773](https://cs.msutexas.edu/uva/api/pdfs/100/10773.pdf) - Back to Intermediate Math
-* [10783](https://cs.msutexas.edu/uva/api/pdfs/100/10783.pdf) - Odd Sum
-* [10931](https://cs.msutexas.edu/uva/api/pdfs/100/10931.pdf) - Parity
+* [10302](https://cs.msutexas.edu/uva/api/pdfs/103/10302.pdf)-- Summation of Polynomials
+* [10346](https://cs.msutexas.edu/uva/api/pdfs/103/10346.pdf) - Peter's Smokes
+* [10370](https://cs.msutexas.edu/uva/api/pdfs/103/10370.pdf) - Above Average
+* [10773](https://cs.msutexas.edu/uva/api/pdfs/107/10773.pdf) - Back to Intermediate Math
+* [10783](https://cs.msutexas.edu/uva/api/pdfs/107/10783.pdf) - Odd Sum
+* [10931](https://cs.msutexas.edu/uva/api/pdfs/109/10931.pdf) - Parity
 * [11044](https://cs.msutexas.edu/uva/api/pdfs/110/11044.pdf) - Searching for Nessy
 * [11172](https://cs.msutexas.edu/uva/api/pdfs/111/11172.pdf) - Relational Operator
 * [11498](https://cs.msutexas.edu/uva/api/pdfs/114/11498.pdf) - Division of Nlogonia
