@@ -5,7 +5,7 @@
 
 Below is a list of 30 problems, all EASY. Have 10 of these done by semesters end.
 
-* 00100 - The 3n + 1 problem
+* [00100](https://cs.msutexas.edu/public_html/uva/api/pdfs/001/100.pdf) - The 3n + 1 problem
 * 00272 - TEX Quotes
 * 00575 - Skew Binary
 * 10035 - Primary Arithmetic
