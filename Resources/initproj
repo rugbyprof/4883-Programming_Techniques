@@ -1,4 +1,4 @@
-#!/usr/local/bin/python3
+#!/usr/bin/env python3
 """Uva Project Initializer
 
 """
@@ -12,6 +12,58 @@ from requests import request
 from shutil import copyfile
 from bs4 import BeautifulSoup
 
+def CommentBlock(num,pdf,name=None):
+    comment = f"""
+/*****************************************************************************
+*                    
+*  Author:           Terry Griffin
+*  Email:            terry.griffin@msutexas.edu
+*  Problem:          {num}
+*  Name:             {name}
+*  Pdf URL:          {pdf}
+*        
+*        
+*****************************************************************************/
+
+"""
+
+    return comment
+
+################################################################################################################
+# ███╗   ███╗██╗   ██╗     ██╗  ██╗██╗    ██╗ █████╗ ██████╗  ██████╗ ███████╗
+# ████╗ ████║╚██╗ ██╔╝     ██║ ██╔╝██║    ██║██╔══██╗██╔══██╗██╔════╝ ██╔════╝
+# ██╔████╔██║ ╚████╔╝█████╗█████╔╝ ██║ █╗ ██║███████║██████╔╝██║  ███╗███████╗
+# ██║╚██╔╝██║  ╚██╔╝ ╚════╝██╔═██╗ ██║███╗██║██╔══██║██╔══██╗██║   ██║╚════██║
+# ██║ ╚═╝ ██║   ██║        ██║  ██╗╚███╔███╔╝██║  ██║██║  ██║╚██████╔╝███████║
+# ╚═╝     ╚═╝   ╚═╝        ╚═╝  ╚═╝ ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝
+                                                                            
+
+def myKwargs(argv):
+    '''
+    Processes argv list into plain args and kwargs.
+    Just easier than using a library like argparse for small things.
+    Example:
+        python file.py arg1 arg2 arg3=val1 arg4=val2 -arg5 -arg6 --arg7
+        Would create:
+            args[arg1, arg2, -arg5, -arg6, --arg7]
+            kargs{arg3 : val1, arg4 : val2}
+
+        Params with dashes (flags) can now be processed seperately
+    Shortfalls:
+        spaces between k=v would result in bad params
+    Returns:
+        tuple  (args,kargs)
+    '''
+    args = []
+    kargs = {}
+
+    for arg in argv:
+        if '=' in arg:
+            key,val = arg.split('=')
+            kargs[key] = val
+        else:
+            args.append(arg)
+    return args,kargs
 
 class UvaProject:
     def __init__(self, **kwargs):
@@ -44,9 +96,9 @@ class UvaProject:
 
     def go(self):
         self.createFolderTemplate()  # create folder for project
-        self.getPdf()  # download pdf into folder
         self.saveUdebugFiles()  # go get uDebug files and copy to folder
         self.createReadme()  # create a readme file.
+        self.addCommentBlock() # add comment block to top of main.cpp
 
     def uvHunt(self, num):
         """Gets uvHunt info about a problem so we can get the problem id
@@ -60,6 +112,15 @@ class UvaProject:
         r = get(f"https://uhunt.onlinejudge.org/api/p/num/{num}")
         data = r.json()
         return data["pid"]
+
+    def addCommentBlock(self):
+        print("Adding comment block to main.cpp...")
+        block = CommentBlock(self.num,self.pdfUrl,name=None)
+        main = os.path.join(self.saveFolderNum, "main.cpp")
+        with open(main, 'r+') as file:
+            content = file.read()
+            file.seek(0)
+            file.write(block + content)
 
     def createFolderTemplate(self):
         """This method creates a folder for the uva problem if it doesn't exist
@@ -80,7 +141,16 @@ class UvaProject:
         else:
             print(f"A main.cpp file exists in target folder. Skipping copy ...")
 
-    def getPdf(self):
+        print("Getting pdf...")
+        self.pdfUrl = self.getPdfUrl()
+        response = get(self.pdfUrl)
+
+        savePath = os.path.join(self.saveFolderNum, f"{str(self.num)}.pdf")
+        print(f"Saving pdf to: {savePath}")
+        with open(savePath, "wb") as f:
+            f.write(response.content)
+
+    def getPdfUrl(self):
         """Download problem pdf to local folder
 
         Args:
@@ -93,14 +163,8 @@ class UvaProject:
         info = response.json()
 
         # pull pdf url out of api response
-        pdfUrl = info["data"]["pdf_url"]
+        return info["data"]["pdf_url"]
 
-        response2 = get(pdfUrl)
-
-        savePath = os.path.join(self.saveFolderNum, f"{str(self.num)}.pdf")
-        print(f"Saving pdf to: {savePath}")
-        with open(savePath, "wb") as f:
-            f.write(response2.content)
 
     def getUdebugDataIds(self):
         """Get uDebug data id's, or the html integer values in the html so I can
@@ -167,25 +231,35 @@ class UvaProject:
 
 
 def usage():
-    print("Usage: initproj 112 ")
+    print("Usage:")
+    print("    ./initproj 112 ")
+    print("or")
+    print("    ./initproj 112 saveFolder=/path/to/my/folder")
+    print("or")
+    print("    ./initproj 112 template=/path/to/my/template.cpp")
+    print("or")
+    print("    ./initproj 112 template=/path/to/my/template.cpp saveFolder=/path/to/my/folder")
     sys.exit()
 
 
 if __name__ == "__main__":
-    argv = sys.argv[1:]
-
-    # make sure you added the problem number as a param
-    if len(argv) == 0:
-        usage()
-
-    # grab problem number from command line
-    problemNum = sys.argv[1]
 
     # num = The Uva problem number.
     # template = Location of cpp file you use as a peoject skeleton / template
     # saveFolder = A path where you want to save project folder. Remove this param to save in current folder.
 
+
+    args,kwargs = myKwargs(sys.argv[1:])
+
+    # make sure you added the problem number as a param
+    if len(args) == 0:
+        usage()
+
+    saveFolder = kwargs.get("saveFolder","./InProgress/")
+    template = kwargs.get("saveFolder","./template/template.cpp")
+
+    # grab problem number from command line
+    problemNum = args[0]
+
     # pass in key value params to init UvaProject class
-    proj = UvaProject(
-        num=problemNum, saveFolder="./InProgress/", template="./template/template.cpp"
-    )
+    proj = UvaProject(num=problemNum, saveFolder=saveFolder, template=template)
