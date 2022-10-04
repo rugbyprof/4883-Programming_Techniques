@@ -1,0 +1,185 @@
+{
+    "success": true,
+    "dataSize": 17,
+    "requestType": "GET",
+    "data": {
+        "Sandesh,Pathak": {
+            "Accepted": {
+                "1167": "10226: Hardwood Species",
+                "97": "161: Traffic Lights",
+                "996": "10055: Hashmat the Brave Warrior",
+                "4022": "12577: Hajj-e-Akbar",
+                "455": "514: Rails",
+                "1724": "10783: Odd Sum",
+                "TotalAccepted": 6
+            },
+            "Attempted": {
+                "36": "100: The 3n + 1 problem",
+                "2021": "11080: Place the Guards"
+            }
+        },
+        "Ally,Moore": {
+            "Accepted": {
+                "1167": "10226: Hardwood Species",
+                "996": "10055: Hashmat the Brave Warrior",
+                "TotalAccepted": 2
+            },
+            "Attempted": []
+        },
+        "Zachary,Kingcade": {
+            "Accepted": {
+                "97": "161: Traffic Lights",
+                "996": "10055: Hashmat the Brave Warrior",
+                "TotalAccepted": 2
+            },
+            "Attempted": []
+        },
+        "Paxton,Proctor": {
+            "Accepted": {
+                "996": "10055: Hashmat the Brave Warrior",
+                "1724": "10783: Odd Sum",
+                "97": "161: Traffic Lights",
+                "208": "272: TEX Quotes",
+                "516": "575: Skew Binary",
+                "1167": "10226: Hardwood Species",
+                "3710": "12289: One-Two-Three",
+                "945": "10004: Bicoloring",
+                "1012": "10071: Back to High School Physics",
+                "1243": "10302: Summation of Polynomials",
+                "1287": ": ",
+                "2954": "11854: Egypt",
+                "3834": "12403: Save Setu",
+                "4022": "12577: Hajj-e-Akbar",
+                "TotalAccepted": 14
+            },
+            "Attempted": []
+        },
+        "Angel,Badillo": {
+            "Accepted": {
+                "996": "10055: Hashmat the Brave Warrior",
+                "1167": "10226: Hardwood Species",
+                "97": "161: Traffic Lights",
+                "455": "514: Rails",
+                "945": "10004: Bicoloring",
+                "2391": "11396: Claw Decomposition",
+                "TotalAccepted": 6
+            },
+            "Attempted": {
+                "3496": "1055: Pockets"
+            }
+        },
+        "Daniel,Portillo": {
+            "Accepted": {
+                "996": "10055: Hashmat the Brave Warrior",
+                "TotalAccepted": 1
+            },
+            "Attempted": {
+                "97": "161: Traffic Lights"
+            }
+        },
+        "Keaton,Whitaker": {
+            "Accepted": {
+                "996": "10055: Hashmat the Brave Warrior",
+                "TotalAccepted": 1
+            },
+            "Attempted": []
+        },
+        "Sunil,Rasaily": {
+            "Accepted": {
+                "455": "514: Rails",
+                "TotalAccepted": 1
+            },
+            "Attempted": {
+                "97": "161: Traffic Lights"
+            }
+        },
+        "Allison,Ricketts": {
+            "Accepted": {
+                "996": "10055: Hashmat the Brave Warrior",
+                "455": "514: Rails",
+                "TotalAccepted": 2
+            },
+            "Attempted": {
+                "1167": "10226: Hardwood Species",
+                "97": "161: Traffic Lights"
+            }
+        },
+        "Yoseph,Helal": {
+            "Accepted": {
+                "996": "10055: Hashmat the Brave Warrior",
+                "2954": "11854: Egypt",
+                "1167": "10226: Hardwood Species",
+                "2683": "11636: Hello World!",
+                "4022": "12577: Hajj-e-Akbar",
+                "TotalAccepted": 5
+            },
+            "Attempted": []
+        },
+        "David,Reyes-Coy": {
+            "Accepted": {
+                "996": "10055: Hashmat the Brave Warrior",
+                "1167": "10226: Hardwood Species",
+                "2954": "11854: Egypt",
+                "TotalAccepted": 3
+            },
+            "Attempted": []
+        },
+        "Aashish,Panta": {
+            "Accepted": {
+                "TotalAccepted": 0
+            },
+            "Attempted": []
+        },
+        "Asaiah,Logan": {
+            "Accepted": {
+                "996": "10055: Hashmat the Brave Warrior",
+                "97": "161: Traffic Lights",
+                "TotalAccepted": 2
+            },
+            "Attempted": []
+        },
+        "Edgar,Zapata": {
+            "Accepted": {
+                "996": "10055: Hashmat the Brave Warrior",
+                "2683": "11636: Hello World!",
+                "TotalAccepted": 2
+            },
+            "Attempted": []
+        },
+        "Mathers,Garrett": {
+            "Accepted": {
+                "996": "10055: Hashmat the Brave Warrior",
+                "1167": "10226: Hardwood Species",
+                "455": "514: Rails",
+                "TotalAccepted": 3
+            },
+            "Attempted": {
+                "97": "161: Traffic Lights"
+            }
+        },
+        "Pulliam,Kolten": {
+            "Accepted": {
+                "97": "161: Traffic Lights",
+                "455": "514: Rails",
+                "996": "10055: Hashmat the Brave Warrior",
+                "1167": "10226: Hardwood Species",
+                "TotalAccepted": 4
+            },
+            "Attempted": []
+        },
+        "Noah,Orta": {
+            "Accepted": {
+                "1167": "10226: Hardwood Species",
+                "97": "161: Traffic Lights",
+                "996": "10055: Hashmat the Brave Warrior",
+                "455": "514: Rails",
+                "516": "575: Skew Binary",
+                "945": "10004: Bicoloring",
+                "TotalAccepted": 6
+            },
+            "Attempted": []
+        }
+    },
+    "params": [],
+    "endpointName": "classSubmissions"
+}
