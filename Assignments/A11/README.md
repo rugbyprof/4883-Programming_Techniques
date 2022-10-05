@@ -3,8 +3,8 @@
 
 ### Overview
 
+See WikiPedia :) https://en.wikipedia.org/wiki/Spanning_tree
 
-Dijkstra's algorithm is an easy implementation of a shortest path between a source node `U`, and a sink node `V`. Dijkstra's inherently calculates the shortest path from `U` to all other nodes, but don't confuse this with an `All Pairs Shortest Path` algorithm like [Floyd-Warshall's](https://en.wikipedia.org/wiki/Floyd%E2%80%93Warshall_algorithm). There is another single source shortest path algorithm like Dijkstra's called the [Bellman-Ford algorithm](https://en.wikipedia.org/wiki/Bellman%E2%80%93Ford_algorithm). Its a little slower, but it can handle negative edge weights, unlike Dijkstra's which cannot.
 
 ### Spanning Tree Problems
 
