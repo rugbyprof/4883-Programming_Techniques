@@ -1,4 +1,4 @@
-## Presentations
+## Presentations - Show Your Problem Solving Skills
 #### Due: Various
 
 ### Helpful Tips
