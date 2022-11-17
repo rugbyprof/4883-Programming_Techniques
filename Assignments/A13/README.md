@@ -1,7 +1,7 @@
 ## Presentations - Be Interested!
 #### Due: Various Dates From Nov 1<sup>st</sup> - Dec 6<sup>th</sup> 
 
-Being interested in the problem is the first thing to help your presentation be successful. Pick a problem you hate or totally don't get, then the presentation my struggle. Pick a problem you really like, but possibly don't get all the way, it will still come off as interesting.
+Being interested in the problem is the first thing to help your presentation be successful. Pick a problem you hate or totally don't get, then the presentation may struggle. Pick a problem you really like, but possibly don't get all the way, it will still come off as interesting.
 
 ### Helpful Tips
 
