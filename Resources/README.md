@@ -10,6 +10,6 @@
 | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Resources/graph_bipartite">graph_bipartite</a>*** | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Resources/graph_bipartite"> Placeholder Readme </a>*** | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Resources/graph_bipartite"> No Description</a>*** | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Resources/graph_bipartite">N/A</a>*** | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Resources/graph_bipartite">None</a>*** |  |
 | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Resources/graph_dfs_bfs">graph_dfs_bfs</a>*** | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Resources/graph_dfs_bfs">None</a>*** | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Resources/graph_dfs_bfs">None</a>*** | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Resources/graph_dfs_bfs">N/A</a>*** | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Resources/graph_dfs_bfs">None</a>*** |  |
 
-<sup>Last Updated: 2022-10-05 (Wed @ 16:48)</sup> 
+<sup>Last Updated: 2022-11-17 (Thu @ 03:56)</sup> 
 
 <sup>***Days Left is only accurate if the `Last Updated` date is the same as todays date. Otherwise, use the due date!***</sup> 
