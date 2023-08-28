@@ -49,8 +49,8 @@ I use Github as a home-base for all assignments, lectures, and resources. It's b
 - When you create a Github account, you must choose a `username`.
 - This is very important to remember, because you will update the class roster with this username so I know where to find all your assignments.
 - Create a repository named:
-    - `5443-2D-yourlastname` 
-    - replace the `yourlastname` with your last name to make it unique.
+    - `4483-Prog-Tech` 
+    - If the it won't let you use the above repo name, add your name at the end to make it unique.
 - Check the box that says: "Add a README.md file"
 - The repo name is important! I have scripts that build a URL with your github username and the repo name above. If you don't follow naming conventions, it means your stuff will not be graded or counted late.
 
@@ -78,7 +78,7 @@ If you're not familiar with `markdown` you can go [here](https://guides.Github.c
 #### Image:
 ![Albert Einstein](https://raw.githubusercontent.com/rugbyprof/5443-2D-Gaming/main/Assignments/graphics/einstein.png)
 #### Avatar:
-![Avatar](https://raw.githubusercontent.com/rugbyprof/5443-2D-Gaming/main/Assignments/graphics/einstein_avatar.png)
+![Avatar](https://raw.githubusercontent.com/rugbyprof/4883-Prog-Tech/main/Assignments/graphics/einstein_avatar.png)
 ```
 
 ***will result in*** (avatar not included in example)
@@ -164,7 +164,7 @@ Every single folder on your repo should contain a `README.md`. This is because w
 
 ## README's For Assignments
 
-More [HERE](../../Resources/02-Readmees/README.md)
+More [HERE](../../Resources/03-Readmees/README.md)
 
 We will use the README's that you will create in every assignment folder to do the following:
 
