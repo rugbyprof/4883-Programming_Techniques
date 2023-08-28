@@ -1,13 +1,13 @@
 ## Assignment 2 - Code Repository
-#### Due: 08-29-2022 (Monday @ 5:00 p.m.) 
+#### Due: 09-01-2022 (Friday @ 5:00 p.m.) 
 
-No, the due date is NOT on a TTh. Thats ok!
+Yes, Friday by 5:00 (not on a MW).
 
 The 1 way communication is you communicating with me and others with the descriptions and instructions you push to your Github repo. This file provides the instructions that will help you format each assignments README file so they are consistent and informative. I discuss README's below.  Remember this file as a reference for turning in all of your assignments.
 
 ## Github
 
-<img src="https://cs.msutexas.edu/~griffin/zcloud/zcloud-files/github_2020.png" width="150">
+<img src="https://raw.githubusercontent.com/rugbyprof/5443-2D-Gaming/main/Assignments/graphics/github_2020.png" width="150">
 
 If you have had me before, and this seems **TL;DR** make sure you:
 
@@ -49,7 +49,7 @@ I use Github as a home-base for all assignments, lectures, and resources. It's b
 - When you create a Github account, you must choose a `username`.
 - This is very important to remember, because you will update the class roster with this username so I know where to find all your assignments.
 - Create a repository named:
-    - `4883-PT-yourlastname` 
+    - `5443-2D-yourlastname` 
     - replace the `yourlastname` with your last name to make it unique.
 - Check the box that says: "Add a README.md file"
 - The repo name is important! I have scripts that build a URL with your github username and the repo name above. If you don't follow naming conventions, it means your stuff will not be graded or counted late.
@@ -72,18 +72,18 @@ If you're not familiar with `markdown` you can go [here](https://guides.Github.c
 
 ```md
 ## Albert Einstein
-#### Repo: 4883 Programmimg Techniques Repo
+#### Repo: 2143 Object Oriented Repo
 #### Email: albert.einstein@yahoo.com
 #### Website: https://en.wikipedia.org/wiki/Albert_Einstein
 #### Image:
-![Albert Einstein](https://cs.msutexas.edu/~griffin/zcloud/zcloud-files/einstein.png)
+![Albert Einstein](https://raw.githubusercontent.com/rugbyprof/5443-2D-Gaming/main/Assignments/graphics/einstein.png)
 #### Avatar:
-![Avatar](https://cs.msutexas.edu/~griffin/zcloud/zcloud-files/einstein_avatar.png)
+![Avatar](https://raw.githubusercontent.com/rugbyprof/5443-2D-Gaming/main/Assignments/graphics/einstein_avatar.png)
 ```
 
 ***will result in*** (avatar not included in example)
 
-<img src="https://cs.msutexas.edu/~griffin/zcloud/zcloud-files/github_example_fall_2021.png" width="300">
+<img src="https://raw.githubusercontent.com/rugbyprof/5443-2D-Gaming/main/Assignments/graphics/einstein_out.png" width="300">
 
 ## Organizing Your Repo
 
@@ -102,14 +102,14 @@ If you're not familiar with `markdown` you can go [here](https://guides.Github.c
 - Your table will initially look very sad and empty like below:
 
 
-<img src="https://cs.msutexas.edu/~griffin/zcloud/zcloud-files/assignments_table_1_4443_2020.png" width="300">
+<img src="https://raw.githubusercontent.com/rugbyprof/5443-2D-Gaming/main/Assignments/graphics/assignments_table_1_4443_2020.png" width="300">
 
 ---
 
 But then it will improve as you add rows to the table which link to each project:
 
 
-<img src="https://cs.msutexas.edu/~griffin/zcloud/zcloud-files/assignments_table_2_4443_2020.png" width="300">
+<img src="https://raw.githubusercontent.com/rugbyprof/5443-2D-Gaming/main/Assignments/graphics/assignments_table_2_4443_2020.png" width="300">
 
 ---
 
@@ -121,36 +121,36 @@ But then it will improve as you add rows to the table which link to each project
 .
 └── 2143-OOP-YourName               (main repo folder)
     ├── Assignments                 (assignments folder)
-    │   ├── A01                     (single assignment folder)
-    │   │   ├── README.md           (assignment readme)
-    │   │   ├── code_file_1.cpp     (assignment files)
-    │   │   ├── code_file_2.cpp
-    │   │   └── code_file_x.hpp
-    │   ├── A02
-    │   │   ├── README.md
-    │   │   ├── code_file_1.cpp
-    │   │   ├── code_file_2.h
-    │   │   └── code_file_x.cpp
-    │   ├── AXX
-    │   │   ├── README.md
-    │   │   ├── code_file_1.cpp
-    │   │   ├── code_file_2.hpp
-    │   │   └── code_file_x.cpp
-    │   ├── P01
-    │   │   ├── README.md
-    │   │   ├── code_file_1.cpp
-    │   │   ├── code_file_2.cpp
-    │   │   └── code_file_x.cpp
-    │   ├── P02
-    │   │   ├── README.md
-    │   │   ├── code_file_1.cpp
-    │   │   ├── code_file_2.cpp
-    │   │   └── code_file_x.cpp
-    │   ├── PXX
-    │   │   ├── README.md
-    │   │   ├── code_file_1.cpp
-    │   │   ├── code_file_2.cpp
-    │   │   └── code_file_x.cpp
+    │   ├── A01                     (single assignment folder)
+    │   │   ├── README.md           (assignment readme)
+    │   │   ├── code_file_1.cpp     (assignment files)
+    │   │   ├── code_file_2.cpp
+    │   │   └── code_file_x.hpp
+    │   ├── A02
+    │   │   ├── README.md
+    │   │   ├── code_file_1.cpp
+    │   │   ├── code_file_2.h
+    │   │   └── code_file_x.cpp
+    │   ├── AXX
+    │   │   ├── README.md
+    │   │   ├── code_file_1.cpp
+    │   │   ├── code_file_2.hpp
+    │   │   └── code_file_x.cpp
+    │   ├── P01
+    │   │   ├── README.md
+    │   │   ├── code_file_1.cpp
+    │   │   ├── code_file_2.cpp
+    │   │   └── code_file_x.cpp
+    │   ├── P02
+    │   │   ├── README.md
+    │   │   ├── code_file_1.cpp
+    │   │   ├── code_file_2.cpp
+    │   │   └── code_file_x.cpp
+    │   ├── PXX
+    │   │   ├── README.md
+    │   │   ├── code_file_1.cpp
+    │   │   ├── code_file_2.cpp
+    │   │   └── code_file_x.cpp
     |   └── README.md               (this is the assignments folder readme)
     └── README.md                   (this is your main repo readme)
 
@@ -164,7 +164,7 @@ Every single folder on your repo should contain a `README.md`. This is because w
 
 ## README's For Assignments
 
-More [HERE](../../Resources/03-Readmees/README.md)
+More [HERE](../../Resources/02-Readmees/README.md)
 
 We will use the README's that you will create in every assignment folder to do the following:
 
@@ -209,8 +209,8 @@ biltong filet mignon. Shoulder chislic ground round pork burgdoggen hamburger.
 
 ### Files
 
-|   #   | File            | Description                                        |
-| :---: | --------------- | -------------------------------------------------- |
+|   #   | File             | Description                                        |
+| :---: | ---------------- | -------------------------------------------------- |
 |   1   | Main.cpp         | Main driver of my project that launches game.      |
 |   2   | HelperClass.cpp  | Helper class that holds movement functions         |
 |   3   | TextureClass.cpp | Helper class that assists with textures and images |
@@ -236,6 +236,5 @@ biltong filet mignon. Shoulder chislic ground round pork burgdoggen hamburger.
 
 The above markdown will produce a README that looks like:
 
-<img src="https://cs.msutexas.edu/~griffin/zcloud/zcloud-files/assignmet_readme_example_2020.png" width="600">
-
+<img src="https://raw.githubusercontent.com/rugbyprof/5443-2D-Gaming/main/Assignments/graphics/assignmet_readme_example_2020.png" width="600">
 

@@ -5,7 +5,7 @@
 
 
 ### General Course Info
-- __Days:__ Mw 11:00 a.m. - 12:20 p.m. 
+- __Days:__ Mw 2:00 p.m. - 3:20 p.m. 
 - __Location:__ BO 103
 - [__Semester:__](https://msutexas.edu/registrar/_assets/files/pdfs/acadcal2224.pdf) Monday August 28<sup>nd</sup> - Friday December 8<sup>th</sup>
 - [__Holidays:__](https://msutexas.edu/registrar/_assets/files/pdfs/acadcal2224.pdf)

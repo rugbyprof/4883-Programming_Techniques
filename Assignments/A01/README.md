@@ -1,7 +1,7 @@
 ## Assignment 1 - Establishing Comms
-#### Due: 08-29-2022 (Monday @ 5:00 p.m.) 
+#### Due: 09-01-2022 (Friday @ 5:00 p.m.) 
 
-No, the due date is NOT on a TTh. Thats ok!
+Yes, Friday by 5:00 (not on a MW).
 
 ## Getting Setup
 
@@ -10,8 +10,8 @@ All of these are important! So do them with expedience.
 If you have had me before, and this seems **TL;DR** make sure you:
 
 1. Are on my slack channel: https://griffin-courses.slack.com
-2. Add yourself to the class <a href="https://docs.google.com/spreadsheets/d/1jAkhTTA8b8BxF5ckkyct44jOz8PNmREB9QxGERVDSeY/edit?usp=sharing">roster</a>
-3. Make sure you add an image or avatar to your slack profile. (These will also be placed into the class <a href="https://docs.google.com/spreadsheets/d/1ZSb80ex5PWo0k2JDLRdoVH0bdJdUC7o8E1tGXCNVWYw/edit?usp=sharing">roster</a>).
+2. Add yourself to the class <a href="https://docs.google.com/spreadsheets/d/1Ul2tjl74iJoQRd6qQ6leq0M5kmy-lEUSc5PQD91JK6c/edit?usp=sharing">roster</a>
+3. Make sure you add an image or avatar to your slack profile. (These will also be placed into the class <a href="https://docs.google.com/spreadsheets/d/1Ul2tjl74iJoQRd6qQ6leq0M5kmy-lEUSc5PQD91JK6c/edit?usp=sharing">roster</a>).
 
 ### Team Chat
 
@@ -57,7 +57,7 @@ Now that we have our communication client set up, we probably need to start gett
 
 #### Update the Class Roster:
 
-- Here is a link to our class roster on google docs: <a href="https://docs.google.com/spreadsheets/d/1jAkhTTA8b8BxF5ckkyct44jOz8PNmREB9QxGERVDSeY/edit?usp=sharing"><img src="https://www.gstatic.com/images/branding/product/2x/sheets_2020q4_48dp.png" width="30">Class Roster</a>
+- Here is a link to our class roster on google docs: <a href="https://docs.google.com/spreadsheets/d/1Ul2tjl74iJoQRd6qQ6leq0M5kmy-lEUSc5PQD91JK6c/edit?usp=sharing"><img src="https://www.gstatic.com/images/branding/product/2x/sheets_2020q4_48dp.png" width="30">Class Roster</a>
 
 - Update the roster by adding your information to it.
 

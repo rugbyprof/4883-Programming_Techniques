@@ -1,9 +1,9 @@
 ## Assignment 3B - Register + Simple Problem 
-#### Due: 08-30-2022 (Tuesday @ 11:00 a.m.) 
+#### Due: 09-04-2022 (Monday @ 5:00 p.m.)
 
-## Part 1: [Banner](banner.md)
+Yes, I know this is a holiday.
 
-## Part 2: Online Judge Registration
+## Online Judge Registration
 
 Go to https://onlinejudge.org/ and register with the site. After you register you will need to remember:
 -  your `username` and 
@@ -11,7 +11,7 @@ Go to https://onlinejudge.org/ and register with the site. After you register yo
 
 The id is an integer similar to: `845581` (this is mine). You find it under the `MyAccount` link. After you get registered go and update the class roster with both of those values.
 
-<a href="https://docs.google.com/spreadsheets/d/1ZSb80ex5PWo0k2JDLRdoVH0bdJdUC7o8E1tGXCNVWYw/edit?usp=sharing"><img src="https://www.gstatic.com/images/branding/product/2x/sheets_2020q4_48dp.png" width="30">Class Roster</a>
+<a href="https://docs.google.com/spreadsheets/d/1Ul2tjl74iJoQRd6qQ6leq0M5kmy-lEUSc5PQD91JK6c/edit?usp=sharing"><img src="https://www.gstatic.com/images/branding/product/2x/sheets_2020q4_48dp.png" width="30">Class Roster</a>
 
 If you don't fix the class roster with those values, then I cannot see what you have turned in. This has the side effect of you getting zeros for all assignments due before you provided me with the proper information.
 
