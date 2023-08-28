@@ -7,12 +7,12 @@
 ### General Course Info
 - __Days:__ Mw 11:00 a.m. - 12:20 p.m. 
 - __Location:__ BO 103
-- [__Semester:__](https://msutexas.edu/registrar/_assets/files/pdfs/acadcal2224.pdf) Monday August 28<sup>nd</sup> - Friday December 8<sup>nd</sup>
+- [__Semester:__](https://msutexas.edu/registrar/_assets/files/pdfs/acadcal2224.pdf) Monday August 28<sup>nd</sup> - Friday December 8<sup>th</sup>
 - [__Holidays:__](https://msutexas.edu/registrar/_assets/files/pdfs/acadcal2224.pdf)
   - __Labor Day__ Monday September 4<sup>th</sup>
   - __Thanksgiving__ Wednesday November 22<sup>nd</sup> - Sunday November 26<sup>th</sup> 
 - [__Last Day for “W”:__](https://msutexas.edu/registrar/_assets/files/pdfs/acadcal2224.pdf)  Monday October 30<sup>th</sup>
-- [__Last Day of Class:__](https://msutexas.edu/registrar/_assets/files/pdfs/acadcal2224.pdf) Friday December 8<sup>nd</sup>
+- [__Last Day of Class:__](https://msutexas.edu/registrar/_assets/files/pdfs/acadcal2224.pdf) Friday December 8<sup>th</sup>
 - [__Final Exam:__](https://msutexas.edu/registrar/_assets/files/pdfs/finalexamschedulespringfall2023.pdf) Monday December 11<sup>th</sup> from 10:30 pm - 12:30 pm
 
 ## Course Topics
