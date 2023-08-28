@@ -1,5 +1,5 @@
 ## Assignment 1 - Establishing Comms
-#### Due: 09-01-2022 (Friday @ 5:00 p.m.) 
+#### Due: 09-01-2023 (Friday @ 5:00 p.m.) 
 
 Yes, Friday by 5:00 (not on a MW).
 
