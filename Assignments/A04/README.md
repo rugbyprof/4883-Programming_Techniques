@@ -1,5 +1,5 @@
 ## Assignment 4  - Easy Breezy
-#### Due: 12-02-2022 (Friday) @ 11:00 a.m.)
+#### Due: 12-02-2022 (Friday @ 11:00 a.m.)
 
 ### Overviews
 

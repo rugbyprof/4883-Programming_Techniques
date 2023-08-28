@@ -1,5 +1,5 @@
 ## Presentations - Be Interested!
-#### Due: Various Dates From Nov 1<sup>st</sup> - Dec 6<sup>th</sup> 
+#### Due: 12-06-2022 (Friday @ 11:00 a.m.)
 
 Being interested in the problem is the first thing to help your presentation be successful. Pick a problem you hate or totally don't get, then the presentation most likely will struggle. Pick a problem that sparks some interest, but may be a little difficult to understand, it will still come off as interesting because your thoughts are genuine.
 
@@ -32,12 +32,12 @@ Being interested in the problem is the first thing to help your presentation be 
 | Badillo  | Nov 3  |    ✅     |
 | Proctor  | Nov 8  |    ✅     |
 | Kingcade | Nov 10 |    ❌     |
-| Harrison | Nov 22 |    ✅      |
-| Garrett  | Nov 22 |    ✅      |
-| Rickets  | Nov 22 |    ✅      |
+| Harrison | Nov 22 |    ✅     |
+| Garrett  | Nov 22 |    ✅     |
+| Rickets  | Nov 22 |    ✅     |
 | Pathak   | Nov 29 |    ❌     |
 | Rasaily  | Nov 29 |    ❌     |
-| Zapata   | Nov 29 |    ✅      |
+| Zapata   | Nov 29 |    ✅     |
 | Reyes    | Dec 1  |    ❌     |
 | Kolten   | Dec 1  |    ❌     |
 | Whitaker | Dec 1  |    ❌     |
