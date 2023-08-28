@@ -1,13 +1,13 @@
 ## Presentations - Be Interested!
 #### Due: Various Dates From Nov 1<sup>st</sup> - Dec 6<sup>th</sup> 
 
-Being interested in the problem is the first thing to help your presentation be successful. Pick a problem you hate or totally don't get, then the presentation may struggle. Pick a problem you really like, but possibly don't get all the way, it will still come off as interesting.
+Being interested in the problem is the first thing to help your presentation be successful. Pick a problem you hate or totally don't get, then the presentation most likely will struggle. Pick a problem that sparks some interest, but may be a little difficult to understand, it will still come off as interesting because your thoughts are genuine.
 
 ### Helpful Tips
 
 - Choose a problem that you think is interesting. It does not have to be a UVA problem, but it does need to fit in the category of competitive programming or interview questions. 
 - The problem should not be of the caliber of those listed in the "easy breezy" assignment.
-- Explain the overall problem. Usually the description does not help 🙂 So cut through the wordiness and try to identify the core proble (e.g. this is really a graph problem needing a shortest path).
+- Explain the overall problem. Usually the description does not help 🙂 So cut through the wordiness and try to identify the core problem (e.g. this is really a graph problem needing a shortest path).
 - Give an overall synopsis of what "type" of solution you think is necessary.
 
   1. Complete Search
@@ -32,12 +32,12 @@ Being interested in the problem is the first thing to help your presentation be 
 | Badillo  | Nov 3  |    ✅     |
 | Proctor  | Nov 8  |    ✅     |
 | Kingcade | Nov 10 |    ❌     |
-| Harrison | Nov 22 |    ❌     |
-| Garrett  | Nov 22 |    ❌     |
-| Rickets  | Nov 22 |    ❌     |
+| Harrison | Nov 22 |    ✅      |
+| Garrett  | Nov 22 |    ✅      |
+| Rickets  | Nov 22 |    ✅      |
 | Pathak   | Nov 29 |    ❌     |
 | Rasaily  | Nov 29 |    ❌     |
-| Zapata   | Nov 29 |    ❌     |
+| Zapata   | Nov 29 |    ✅      |
 | Reyes    | Dec 1  |    ❌     |
 | Kolten   | Dec 1  |    ❌     |
 | Whitaker | Dec 1  |    ❌     |

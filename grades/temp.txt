@@ -1,0 +1,68 @@
+Sandesh,Pathak
+Total Problems:26
+Problems Solved:18
+69%
+Ally,Moore
+Total Problems:26
+Problems Solved:7
+26%
+Zachary,Kingcade
+Total Problems:26
+Problems Solved:4
+15%
+Paxton,Proctor
+Total Problems:26
+Problems Solved:27
+103%
+Angel,Badillo
+Total Problems:26
+Problems Solved:23
+88%
+Daniel,Portillo
+Total Problems:26
+Problems Solved:4
+15%
+Keaton,Whitaker
+Total Problems:26
+Problems Solved:11
+42%
+Sunil,Rasaily
+Total Problems:26
+Problems Solved:22
+84%
+Allison,Ricketts
+Total Problems:26
+Problems Solved:10
+38%
+Yoseph,Helal
+Total Problems:26
+Problems Solved:9
+34%
+David,Reyes-Coy
+Total Problems:26
+Problems Solved:12
+46%
+Aashish,Panta
+Total Problems:26
+Problems Solved:0
+0%
+Asaiah,Logan
+Total Problems:26
+Problems Solved:10
+38%
+Edgar,Zapata
+Total Problems:26
+Problems Solved:8
+30%
+Mathers,Garrett
+Total Problems:26
+Problems Solved:8
+30%
+Pulliam,Kolten
+Total Problems:26
+Problems Solved:11
+42%
+Noah,Orta
+Total Problems:26
+Problems Solved:14
+53%

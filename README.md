@@ -5,15 +5,15 @@
 
 
 ### General Course Info
-- __Days:__ TTh 11:00 a.m. - 12:20 p.m. 
+- __Days:__ Mw 11:00 a.m. - 12:20 p.m. 
 - __Location:__ BO 103
-- [__Semester:__](https://msutexas.edu/registrar/_assets/files/pdfs/acadcal2223.pdf) Monday August 22<sup>nd</sup> - Friday December 2<sup>nd</sup>
-- [__Holidays:__](https://msutexas.edu/registrar/_assets/files/pdfs/acadcal2223.pdf)
-  - __Labor Day__ Monday September 5<sup>th</sup>
-  - __Thanksgiving__ Wednesday November 23<sup>rd</sup> - Sunday November 27<sup>th</sup> 
-- [__Last Day for “W”:__](https://msutexas.edu/registrar/_assets/files/pdfs/acadcal2223.pdf)  Friday October 24<sup>th</sup>
-- [__Last Day of Class:__](https://msutexas.edu/registrar/_assets/files/pdfs/acadcal2223.pdf) Friday December 2<sup>nd</sup>
-- [__Final Exam:__](https://msutexas.edu/registrar/_assets/files/pdfs/fall22finals.pdf) Tuesday December 6<sup>th</sup> from 1:00 pm - 3:00 pm
+- [__Semester:__](https://msutexas.edu/registrar/_assets/files/pdfs/acadcal2224.pdf) Monday August 28<sup>nd</sup> - Friday December 8<sup>nd</sup>
+- [__Holidays:__](https://msutexas.edu/registrar/_assets/files/pdfs/acadcal2224.pdf)
+  - __Labor Day__ Monday September 4<sup>th</sup>
+  - __Thanksgiving__ Wednesday November 22<sup>nd</sup> - Sunday November 26<sup>th</sup> 
+- [__Last Day for “W”:__](https://msutexas.edu/registrar/_assets/files/pdfs/acadcal2224.pdf)  Monday October 30<sup>th</sup>
+- [__Last Day of Class:__](https://msutexas.edu/registrar/_assets/files/pdfs/acadcal2224.pdf) Friday December 8<sup>nd</sup>
+- [__Final Exam:__](https://msutexas.edu/registrar/_assets/files/pdfs/finalexamschedulespringfall2023.pdf) Monday December 11<sup>th</sup> from 10:30 pm - 12:30 pm
 
 ## Course Topics
 
@@ -39,14 +39,14 @@
 
 Will be based on number of problems solved. Full credit for on time solutions. Half credit for late submissions. Some credit for accepted solutions with issues (e.g. presentation errors),
 
-| Categories      | Portion of Course |  \|\|   | Letter Grade | Grade Range |
-| :-------------- | :---------------: | --- | :----------: | :---------: |
-| Solved Problems |        65%        |  \|\|   |      A       |   89-100    |
-| Github          |        10%        |  \|\|   |      B       |    79-88    |
-| Participation   |        5%         |  \|\|   |      C       |    69-78    |
-| Presentation    |        10%        |  \|\|   |      D       |    59-68    |
-| Project         |        10%        |  \|\|   |      F       |  below 59   |
-|                 |                   |  \|\|   |              |             |
+| Categories      | Portion of Course | \|\| | Letter Grade | Grade Range |
+| :-------------- | :---------------: | ---- | :----------: | :---------: |
+| Solved Problems |        65%        | \|\| |      A       |   89-100    |
+| Github          |        10%        | \|\| |      B       |    79-88    |
+| Participation   |        5%         | \|\| |      C       |    69-78    |
+| Presentation    |        10%        | \|\| |      D       |    59-68    |
+| Project         |        10%        | \|\| |      F       |  below 59   |
+|                 |                   | \|\| |              |             |
 
 >**Participation**: Obviously this has to do with going to class, asking questions, and generally being a physical part of class. But even more importantly it has to do with interacting with our class on Slack. Responding to queries on Slack either with text response or an emoticon reaction to a post. Asking me questions with direct message is a huge help, as I can turn that into (what the military calls) an "overhead correction". Most questions help bring to my attention things that need clarification for everyone. I will be gauging everyone's participation and the best guarantee is on slack as that creates a digital record.
 

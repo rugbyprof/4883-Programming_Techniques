@@ -1,0 +1,391 @@
+{
+    "success": true,
+    "dataSize": 17,
+    "requestType": "GET",
+    "data": {
+        "Sandesh,Pathak": {
+            "Accepted": {
+                "614": "673: Parentheses Balance",
+                "945": "10004: Bicoloring",
+                "2391": "11396: Claw Decomposition",
+                "36": "100: The 3n + 1 problem",
+                "1167": "10226: Hardwood Species",
+                "97": "161: Traffic Lights",
+                "996": "10055: Hashmat the Brave Warrior",
+                "3834": "12403: Save Setu",
+                "4022": "12577: Hajj-e-Akbar",
+                "455": "514: Rails",
+                "516": "575: Skew Binary",
+                "870": "929: Number Maze",
+                "1287": ": ",
+                "1330": "10389: Subway",
+                "1384": "10443: Rock, Scissors, Paper",
+                "1724": "10783: Odd Sum",
+                "2113": "11172: Relational Operator",
+                "3615": "1174: IP-TV",
+                "TotalAccepted": 18
+            },
+            "Attempted": {
+                "436": "495: Fibonacci Freeze",
+                "2021": "11080: Place the Guards"
+            }
+        },
+        "Ally,Moore": {
+            "Accepted": {
+                "1167": "10226: Hardwood Species",
+                "1384": "10443: Rock, Scissors, Paper",
+                "996": "10055: Hashmat the Brave Warrior",
+                "455": "514: Rails",
+                "1311": "10370: Above Average",
+                "1872": "10931: Parity",
+                "TotalAccepted": 6
+            },
+            "Attempted": {
+                "5224": "13300: Ghost Hunting"
+            }
+        },
+        "Zachary,Kingcade": {
+            "Accepted": {
+                "97": "161: Traffic Lights",
+                "996": "10055: Hashmat the Brave Warrior",
+                "TotalAccepted": 2
+            },
+            "Attempted": []
+        },
+        "Paxton,Proctor": {
+            "Accepted": {
+                "996": "10055: Hashmat the Brave Warrior",
+                "1724": "10783: Odd Sum",
+                "3317": "12165: Triangle Hazard",
+                "97": "161: Traffic Lights",
+                "208": "272: TEX Quotes",
+                "516": "575: Skew Binary",
+                "976": "10035: Primary Arithmetic",
+                "1167": "10226: Hardwood Species",
+                "1985": "11044: Searching for Nessy",
+                "2021": "11080: Place the Guards",
+                "3710": "12289: One-Two-Three",
+                "455": "514: Rails",
+                "945": "10004: Bicoloring",
+                "1012": "10071: Back to High School Physics",
+                "1243": "10302: Summation of Polynomials",
+                "1287": ": ",
+                "1714": "10773: Back to Intermediate Math",
+                "2113": "11172: Relational Operator",
+                "2391": "11396: Claw Decomposition",
+                "2493": "11498: Division of Nlogonia",
+                "2954": "11854: Egypt",
+                "3402": "12250: Language Detection",
+                "3553": "1112: Mice and Maze",
+                "3834": "12403: Save Setu",
+                "4022": "12577: Hajj-e-Akbar",
+                "TotalAccepted": 25
+            },
+            "Attempted": {
+                "5224": "13300: Ghost Hunting"
+            }
+        },
+        "Angel,Badillo": {
+            "Accepted": {
+                "1384": "10443: Rock, Scissors, Paper",
+                "1872": "10931: Parity",
+                "2864": "11764: Jumping Mario",
+                "1927": "10986: Sending email",
+                "4022": "12577: Hajj-e-Akbar",
+                "996": "10055: Hashmat the Brave Warrior",
+                "1311": "10370: Above Average",
+                "3649": "1208: Oreon",
+                "1167": "10226: Hardwood Species",
+                "97": "161: Traffic Lights",
+                "455": "514: Rails",
+                "516": "575: Skew Binary",
+                "945": "10004: Bicoloring",
+                "1724": "10783: Odd Sum",
+                "2113": "11172: Relational Operator",
+                "2391": "11396: Claw Decomposition",
+                "2542": "11547: Automatic Answer",
+                "2678": "11631: Dark roads",
+                "2877": "11777: Automate the Grades",
+                "3553": "1112: Mice and Maze",
+                "3710": "12289: One-Two-Three",
+                "TotalAccepted": 21
+            },
+            "Attempted": {
+                "1671": "10730: Antiarithmetic?",
+                "5224": "13300: Ghost Hunting",
+                "3496": "1055: Pockets"
+            }
+        },
+        "Daniel,Portillo": {
+            "Accepted": {
+                "516": "575: Skew Binary",
+                "4023": "12578: 10:6:2",
+                "1985": "11044: Searching for Nessy",
+                "996": "10055: Hashmat the Brave Warrior",
+                "2899": "11799: Horror Dash",
+                "2986": "11875: Brick Game",
+                "1872": "10931: Parity",
+                "2113": "11172: Relational Operator",
+                "2493": "11498: Division of Nlogonia",
+                "2954": "11854: Egypt",
+                "3710": "12289: One-Two-Three",
+                "TotalAccepted": 11
+            },
+            "Attempted": {
+                "97": "161: Traffic Lights"
+            }
+        },
+        "Keaton,Whitaker": {
+            "Accepted": {
+                "2877": "11777: Automate the Grades",
+                "1311": "10370: Above Average",
+                "996": "10055: Hashmat the Brave Warrior",
+                "3402": "12250: Language Detection",
+                "2113": "11172: Relational Operator",
+                "1012": "10071: Back to High School Physics",
+                "1384": "10443: Rock, Scissors, Paper",
+                "1724": "10783: Odd Sum",
+                "1985": "11044: Searching for Nessy",
+                "2542": "11547: Automatic Answer",
+                "2683": "11636: Hello World!",
+                "2827": "11727: Cost Cutting",
+                "4022": "12577: Hajj-e-Akbar",
+                "TotalAccepted": 13
+            },
+            "Attempted": {
+                "5224": "13300: Ghost Hunting",
+                "2864": "11764: Jumping Mario"
+            }
+        },
+        "Sunil,Rasaily": {
+            "Accepted": {
+                "36": "100: The 3n + 1 problem",
+                "1332": "10391: Compound Words",
+                "97": "161: Traffic Lights",
+                "208": "272: TEX Quotes",
+                "455": "514: Rails",
+                "516": "575: Skew Binary",
+                "870": "929: Number Maze",
+                "945": "10004: Bicoloring",
+                "976": "10035: Primary Arithmetic",
+                "996": "10055: Hashmat the Brave Warrior",
+                "1012": "10071: Back to High School Physics",
+                "1287": ": ",
+                "1330": "10389: Subway",
+                "1872": "10931: Parity",
+                "2021": "11080: Place the Guards",
+                "2026": "11085: Back to the 8-Queens",
+                "2954": "11854: Egypt",
+                "3615": "1174: IP-TV",
+                "3676": "1235: Anti Brute Force Lock",
+                "4022": "12577: Hajj-e-Akbar",
+                "TotalAccepted": 20
+            },
+            "Attempted": {
+                "44": "108: Maximum Sum",
+                "3834": "12403: Save Setu"
+            }
+        },
+        "Allison,Ricketts": {
+            "Accepted": {
+                "2864": "11764: Jumping Mario",
+                "36": "100: The 3n + 1 problem",
+                "2683": "11636: Hello World!",
+                "945": "10004: Bicoloring",
+                "976": "10035: Primary Arithmetic",
+                "996": "10055: Hashmat the Brave Warrior",
+                "4023": "12578: 10:6:2",
+                "455": "514: Rails",
+                "516": "575: Skew Binary",
+                "1724": "10783: Odd Sum",
+                "2113": "11172: Relational Operator",
+                "3402": "12250: Language Detection",
+                "TotalAccepted": 12
+            },
+            "Attempted": {
+                "1167": "10226: Hardwood Species",
+                "97": "161: Traffic Lights"
+            }
+        },
+        "Yoseph,Helal": {
+            "Accepted": {
+                "36": "100: The 3n + 1 problem",
+                "996": "10055: Hashmat the Brave Warrior",
+                "1724": "10783: Odd Sum",
+                "2113": "11172: Relational Operator",
+                "2954": "11854: Egypt",
+                "455": "514: Rails",
+                "1167": "10226: Hardwood Species",
+                "1287": ": ",
+                "1985": "11044: Searching for Nessy",
+                "2542": "11547: Automatic Answer",
+                "2683": "11636: Hello World!",
+                "3710": "12289: One-Two-Three",
+                "4022": "12577: Hajj-e-Akbar",
+                "TotalAccepted": 13
+            },
+            "Attempted": []
+        },
+        "David,Reyes-Coy": {
+            "Accepted": {
+                "996": "10055: Hashmat the Brave Warrior",
+                "1985": "11044: Searching for Nessy",
+                "1167": "10226: Hardwood Species",
+                "2954": "11854: Egypt",
+                "2683": "11636: Hello World!",
+                "3402": "12250: Language Detection",
+                "97": "161: Traffic Lights",
+                "455": "514: Rails",
+                "1012": "10071: Back to High School Physics",
+                "1384": "10443: Rock, Scissors, Paper",
+                "1927": "10986: Sending email",
+                "2391": "11396: Claw Decomposition",
+                "2542": "11547: Automatic Answer",
+                "2827": "11727: Cost Cutting",
+                "3710": "12289: One-Two-Three",
+                "4023": "12578: 10:6:2",
+                "TotalAccepted": 16
+            },
+            "Attempted": {
+                "1844": "10903: Rock-Paper-Scissors Tournament"
+            }
+        },
+        "Aashish,Panta": {
+            "Accepted": {
+                "TotalAccepted": 0
+            },
+            "Attempted": {
+                "36": "100: The 3n + 1 problem",
+                "516": "575: Skew Binary",
+                "976": "10035: Primary Arithmetic",
+                "1311": "10370: Above Average",
+                "2026": "11085: Back to the 8-Queens",
+                "2683": "11636: Hello World!"
+            }
+        },
+        "Asaiah,Logan": {
+            "Accepted": {
+                "996": "10055: Hashmat the Brave Warrior",
+                "1872": "10931: Parity",
+                "4023": "12578: 10:6:2",
+                "97": "161: Traffic Lights",
+                "1167": "10226: Hardwood Species",
+                "455": "514: Rails",
+                "516": "575: Skew Binary",
+                "945": "10004: Bicoloring",
+                "976": "10035: Primary Arithmetic",
+                "1724": "10783: Odd Sum",
+                "2113": "11172: Relational Operator",
+                "2864": "11764: Jumping Mario",
+                "3402": "12250: Language Detection",
+                "3710": "12289: One-Two-Three",
+                "TotalAccepted": 14
+            },
+            "Attempted": {
+                "5224": "13300: Ghost Hunting"
+            }
+        },
+        "Edgar,Zapata": {
+            "Accepted": {
+                "996": "10055: Hashmat the Brave Warrior",
+                "1287": ": ",
+                "2113": "11172: Relational Operator",
+                "1724": "10783: Odd Sum",
+                "2954": "11854: Egypt",
+                "3710": "12289: One-Two-Three",
+                "945": "10004: Bicoloring",
+                "1985": "11044: Searching for Nessy",
+                "2542": "11547: Automatic Answer",
+                "2683": "11636: Hello World!",
+                "2827": "11727: Cost Cutting",
+                "4022": "12577: Hajj-e-Akbar",
+                "TotalAccepted": 12
+            },
+            "Attempted": {
+                "36": "100: The 3n + 1 problem",
+                "976": "10035: Primary Arithmetic",
+                "1311": "10370: Above Average"
+            }
+        },
+        "Mathers,Garrett": {
+            "Accepted": {
+                "1724": "10783: Odd Sum",
+                "996": "10055: Hashmat the Brave Warrior",
+                "1167": "10226: Hardwood Species",
+                "3402": "12250: Language Detection",
+                "1384": "10443: Rock, Scissors, Paper",
+                "455": "514: Rails",
+                "2542": "11547: Automatic Answer",
+                "2827": "11727: Cost Cutting",
+                "3710": "12289: One-Two-Three",
+                "TotalAccepted": 9
+            },
+            "Attempted": {
+                "97": "161: Traffic Lights",
+                "1927": "10986: Sending email",
+                "2678": "11631: Dark roads",
+                "2683": "11636: Hello World!",
+                "5224": "13300: Ghost Hunting",
+                "945": "10004: Bicoloring",
+                "1311": "10370: Above Average",
+                "2877": "11777: Automate the Grades",
+                "2954": "11854: Egypt"
+            }
+        },
+        "Pulliam,Kolten": {
+            "Accepted": {
+                "1311": "10370: Above Average",
+                "97": "161: Traffic Lights",
+                "3402": "12250: Language Detection",
+                "455": "514: Rails",
+                "945": "10004: Bicoloring",
+                "996": "10055: Hashmat the Brave Warrior",
+                "1167": "10226: Hardwood Species",
+                "1243": "10302: Summation of Polynomials",
+                "1384": "10443: Rock, Scissors, Paper",
+                "1724": "10783: Odd Sum",
+                "2021": "11080: Place the Guards",
+                "2542": "11547: Automatic Answer",
+                "2864": "11764: Jumping Mario",
+                "2877": "11777: Automate the Grades",
+                "2905": "11805: Bafana Bafana",
+                "3649": "1208: Oreon",
+                "4022": "12577: Hajj-e-Akbar",
+                "TotalAccepted": 17
+            },
+            "Attempted": {
+                "870": "929: Number Maze",
+                "2757": "11710: Expensive subway"
+            }
+        },
+        "Noah,Orta": {
+            "Accepted": {
+                "1167": "10226: Hardwood Species",
+                "97": "161: Traffic Lights",
+                "1384": "10443: Rock, Scissors, Paper",
+                "3553": "1112: Mice and Maze",
+                "996": "10055: Hashmat the Brave Warrior",
+                "1311": "10370: Above Average",
+                "2683": "11636: Hello World!",
+                "36": "100: The 3n + 1 problem",
+                "455": "514: Rails",
+                "516": "575: Skew Binary",
+                "945": "10004: Bicoloring",
+                "1724": "10783: Odd Sum",
+                "2021": "11080: Place the Guards",
+                "2678": "11631: Dark roads",
+                "2864": "11764: Jumping Mario",
+                "2877": "11777: Automate the Grades",
+                "2905": "11805: Bafana Bafana",
+                "3402": "12250: Language Detection",
+                "4022": "12577: Hajj-e-Akbar",
+                "TotalAccepted": 19
+            },
+            "Attempted": {
+                "870": "929: Number Maze"
+            }
+        }
+    },
+    "params": [],
+    "endpointName": "classSubmissions"
+}
