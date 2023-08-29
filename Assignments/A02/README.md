@@ -7,7 +7,7 @@ The 1 way communication is you communicating with me and others with the descrip
 
 ## Github
 
-<img src="https://raw.githubusercontent.com/rugbyprof/5443-2D-Gaming/main/Assignments/graphics/github_2020.png" width="150">
+<img src="https://images2.imgbox.com/ad/61/Rgaibvlg_o.png" width="150">
 
 If you have had me before, and this seems **TL;DR** make sure you:
 
@@ -49,8 +49,9 @@ I use Github as a home-base for all assignments, lectures, and resources. It's b
 - When you create a Github account, you must choose a `username`.
 - This is very important to remember, because you will update the class roster with this username so I know where to find all your assignments.
 - Create a repository named:
-    - `4483-Prog-Tech` 
-    - If the it won't let you use the above repo name, add your name at the end to make it unique.
+    - `5143-Opsys-section` 
+    - Replace section with **101** (TTh class) or **102** (MW class)
+    - If the it won't let you use the above repo name with the section, then add your name at the end to make it unique.
 - Check the box that says: "Add a README.md file"
 - The repo name is important! I have scripts that build a URL with your github username and the repo name above. If you don't follow naming conventions, it means your stuff will not be graded or counted late.
 
@@ -70,20 +71,27 @@ I use Github as a home-base for all assignments, lectures, and resources. It's b
 
 If you're not familiar with `markdown` you can go [here](https://guides.Github.com/features/mastering-markdown/) to get an idea of what it can do for you. It's basically a simple syntax that you can use to format files. Use the template below to get your `README` started:
 
+### Markdown Input 
 ```md
 ## Albert Einstein
-#### Repo: 2143 Object Oriented Repo
+#### Repo: 4883 Programming Techniques
 #### Email: albert.einstein@yahoo.com
 #### Website: https://en.wikipedia.org/wiki/Albert_Einstein
 #### Image:
-![Albert Einstein](https://raw.githubusercontent.com/rugbyprof/5443-2D-Gaming/main/Assignments/graphics/einstein.png)
+<img src="https://images2.imgbox.com/b3/d5/09sLKh1N_o.png" width="200">
+
 #### Avatar:
-![Avatar](https://raw.githubusercontent.com/rugbyprof/4883-Prog-Tech/main/Assignments/graphics/einstein_avatar.png)
+<img src="https://images2.imgbox.com/ae/bd/tERTAGTL_o.png" width="75">
 ```
 
-***will result in*** (avatar not included in example)
+<!-- https://imgbox.com/mZjdjhIK
+https://imgbox.com/kXSbpB11
+https://imgbox.com/cbpg81dL -->
 
-<img src="https://raw.githubusercontent.com/rugbyprof/5443-2D-Gaming/main/Assignments/graphics/einstein_out.png" width="300">
+|                           **Markdown Output**                           |
+| :---------------------------------------------------------------------: |
+| <img src="https://images2.imgbox.com/4e/b6/cbpg81dL_o.png" width="500"> |
+
 
 ## Organizing Your Repo
 
@@ -91,25 +99,44 @@ If you're not familiar with `markdown` you can go [here](https://guides.Github.c
 - In the `Assignments` folder, create a `README.md` file that has the following in it:
 
 ```md
-##  Assignments Folder
+##  Assignments
 
 |   #   | Folder Link | Assignment Description |
 | :---: | ----------- | ---------------------- |
-|       |             |                        |
+|   0   | link 0      | description 0          |
 ```
 
+
 - This will be a table in the root of your folder that will eventually hold a link to each assignment uploaded to Github.
-- Your table will initially look very sad and empty like below:
+- Your table will initially look very worthless with this example filler data for a single row:
 
+|   #   | Folder Link | Assignment Description |
+| :---: | ----------- | ---------------------- |
+|   0   | link 0      | description 0          |
 
-<img src="https://raw.githubusercontent.com/rugbyprof/5443-2D-Gaming/main/Assignments/graphics/assignments_table_1_4443_2020.png" width="300">
 
 ---
 
-But then it will improve as you add rows to the table which link to each project:
+But then it will improve as you add rows to the table which link to each of your projects. I will link to some of the resources in this repo as an example: 
+#### Markdown
+```md
 
+|   #   | Folder Link                            | Assignment Description                               |
+| :---: | -------------------------------------- | ---------------------------------------------------- |
+|   1   | [A01](./FakeAssignments/A01/README.md) | [Show up to class ](./FakeAssignments/A01/README.md) |
+|   2   | [A02](./FakeAssignments/A02/README.md) | [Listen in class ](./FakeAssignments/A02/README.md)  |
+|   3   | [P01](./FakeAssignments/P01/README.md) | [Hello World ](./FakeAssignments/P01/README.md)      |
+|   1   | [P02](./FakeAssignments/P02/README.md) | [Hello Mars ](./FakeAssignments/P02/README.md)       |
 
-<img src="https://raw.githubusercontent.com/rugbyprof/5443-2D-Gaming/main/Assignments/graphics/assignments_table_2_4443_2020.png" width="300">
+```
+----
+#### Resulting Table
+|   #   | Folder Link                            | Assignment Description                               |
+| :---: | -------------------------------------- | ---------------------------------------------------- |
+|   1   | [A01](./FakeAssignments/A01/README.md) | [Show up to class ](./FakeAssignments/A01/README.md) |
+|   2   | [A02](./FakeAssignments/A02/README.md) | [Listen in class ](./FakeAssignments/A02/README.md)  |
+|   3   | [P01](./FakeAssignments/P01/README.md) | [Hello World ](./FakeAssignments/P01/README.md)      |
+|   1   | [P02](./FakeAssignments/P02/README.md) | [Hello Mars ](./FakeAssignments/P02/README.md)       |
 
 ---
 
@@ -119,7 +146,7 @@ But then it will improve as you add rows to the table which link to each project
 ### Example Repo Directory Structure
 ```
 .
-└── 2143-OOP-YourName               (main repo folder)
+└── 5143-Opsys-xxx               (main repo folder)
     ├── Assignments                 (assignments folder)
     │   ├── A01                     (single assignment folder)
     │   │   ├── README.md           (assignment readme)

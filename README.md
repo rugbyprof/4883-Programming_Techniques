@@ -1,7 +1,7 @@
-# 4883-Programming Techniques
+# 4883 Programming Techniques
 
 ### Roster
-<a href="https://docs.google.com/spreadsheets/d/1Ul2tjl74iJoQRd6qQ6leq0M5kmy-lEUSc5PQD91JK6c/edit?usp=sharing"><img src="https://www.gstatic.com/images/branding/product/2x/sheets_2020q4_48dp.png" width="30">Class Roster</a>
+<a href="https://docs.google.com/spreadsheets/d/1Ul2tjl74iJoQRd6qQ6leq0M5kmy-lEUSc5PQD91JK6c/edit?usp=sharing"><img src="https://images2.imgbox.com/35/7c/I0dU5rrM_o.png" width="30">Class Roster</a>
 
 
 ### General Course Info
@@ -112,3 +112,5 @@ The Department of Computer Science has adopted the following policy related to t
 - Attending class is one of the primary keys to doing well in this class. Students may be dropped for excessive absences. There is no distinction made between excused and unexcused.
 - Make-up exams are not given. If I see fit, then I will replace a missed exam with your final exam test grade (but this is optional to instructor based on circumstances, attendance, participation, etc.).
 - Cheating or plagiarism on any assignment will not be tolerated.
+
+

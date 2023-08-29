@@ -17,7 +17,7 @@ If you have had me before, and this seems **TL;DR** make sure you:
 
 ---
 
-<img src="http://cs.msutexas.edu/~griffin/zcloud/zcloud-files/slack_icon.png" width="120">
+<a href="https://imgbox.com/mhztyZq5" target="_blank"><img src="https://thumbs2.imgbox.com/58/73/mhztyZq5_t.png" alt="image host" width="120"/></a>
 
 
 The first step in doing well in any of my courses is establishing a base of communication. Why? Not everything can be done while we are in class.
@@ -53,11 +53,12 @@ Now that we have our communication client set up, we probably need to start gett
 ### Class Roster
 ---
 
-<img src="https://cs.msutexas.edu/~griffin/zcloud/zcloud-files/google-sheets.png" width="90">
+<a href="https://imgbox.com/ywxsN67C" target="_blank"><img src="https://thumbs2.imgbox.com/c6/3a/ywxsN67C_t.png" alt="image host" width="90"/></a>
 
 #### Update the Class Roster:
 
-- Here is a link to our class roster on google docs: <a href="https://docs.google.com/spreadsheets/d/1Ul2tjl74iJoQRd6qQ6leq0M5kmy-lEUSc5PQD91JK6c/edit?usp=sharing"><img src="https://www.gstatic.com/images/branding/product/2x/sheets_2020q4_48dp.png" width="30">Class Roster</a>
+- Here is a link to our class roster on google docs: <a href="https://docs.google.com/spreadsheets/d/1Ul2tjl74iJoQRd6qQ6leq0M5kmy-lEUSc5PQD91JK6c/edit?usp=sharing">
+  <img src="https://thumbs2.imgbox.com/c6/3a/ywxsN67C_t.png" alt="image host" width="20"/><a href="https://docs.google.com/spreadsheets/d/1Ul2tjl74iJoQRd6qQ6leq0M5kmy-lEUSc5PQD91JK6c/edit?usp=sharing">Class Roster</a>
 
 - Update the roster by adding your information to it.
 
