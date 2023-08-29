@@ -16,6 +16,6 @@
 | ~<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Assignments/A12">A12</a>~ | ~<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Assignments/A12"> Assignment 12 </a>~ | ~<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Assignments/A12"> Everything is Not Backtracking</a>~ | ~<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Assignments/A12"> 10-25-2022 (Thursday @ 11:00 a.m.)</a>~ | ~<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Assignments/A12">2022-10-25 00:00:00</a>~ | ---- |
 | ~<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Assignments/A13">A13</a>~ | ~<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Assignments/A13"> Presentations </a>~ | ~<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Assignments/A13"> Be Interested!</a>~ | ~<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Assignments/A13"> 12-06-2022 (Friday @ 11:00 a.m.)</a>~ | ~<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Assignments/A13">2022-12-06 00:00:00</a>~ | ---- |
 
-<sup>Last Updated: 2023-08-29 (Tue @ 00:16)</sup> 
+<sup>Last Updated: 2023-08-29 (Tue @ 01:33)</sup> 
 
 <sup>***Days Left is only accurate if the `Last Updated` date is the same as todays date. Otherwise, use the due date!***</sup> 
