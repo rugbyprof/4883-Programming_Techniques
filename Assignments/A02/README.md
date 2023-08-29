@@ -7,7 +7,7 @@ The 1 way communication is you communicating with me and others with the descrip
 
 ## Github
 
-<img src="https://images2.imgbox.com/ad/61/Rgaibvlg_o.png" width="150">
+<img src="https://images2.imgbox.com/f6/ef/TN71JNV8_o.png" width="100">
 
 If you have had me before, and this seems **TL;DR** make sure you:
 
