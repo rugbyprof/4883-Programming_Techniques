@@ -49,9 +49,8 @@ I use Github as a home-base for all assignments, lectures, and resources. It's b
 - When you create a Github account, you must choose a `username`.
 - This is very important to remember, because you will update the class roster with this username so I know where to find all your assignments.
 - Create a repository named:
-    - `5143-Opsys-section` 
-    - Replace section with **101** (TTh class) or **102** (MW class)
-    - If the it won't let you use the above repo name with the section, then add your name at the end to make it unique.
+    - `4883-Prog-Tech` 
+    - If the it won't let you use the above repo name with the section, then add your name at the end to make it unique (like `4883-Prog-Tech-Gumby` ).
 - Check the box that says: "Add a README.md file"
 - The repo name is important! I have scripts that build a URL with your github username and the repo name above. If you don't follow naming conventions, it means your stuff will not be graded or counted late.
 
