@@ -1,4 +1,4 @@
-## Assignment 3B - Register + Simple Problem 
+## Assignment 3 - Register + Hashmat 
 #### Due: 09-04-2023 (Monday @ 5:00 p.m.)
 
 Yes, I know this is a holiday.
