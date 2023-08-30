@@ -42,7 +42,7 @@ Read about Hashmat in the provided pdf and make changes to the code below to cor
 using namespace std;
 
 int main() {
-    int B = 0, A = 0;
+    long B = 0, A = 0;
     
     while (cin >> A >> B) {
         
@@ -59,12 +59,4 @@ int main() {
 - Place the pdf, your solution code, and any input files you used in this folder.
 - Make sure you create an acceptable [README](../../Resources/03-Readmees/README.md) file for this project (presentation is everything!)
 - Commit this content to your github repo by the due date.
-- Bring a printout of your Banner + source file (only no input files).
 
-#### Banner
-
-```txt
-P10055
-4883
-YOURLASTMNAME
-```
