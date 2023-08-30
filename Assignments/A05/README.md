@@ -1,5 +1,5 @@
 ## Assignment 5 - Traffic Lights
-#### Due: 09-01-2022 (Thursday @ 11:00 a.m.)
+#### Due: 09-07-2023 (Thursday @ 1:00 p.m.)
 
 ### Overview
 
@@ -78,12 +78,3 @@ There are no known ways to significantly increase mental capacity. But if you ex
 - Place the pdf, your solution code, and any input files you used in this folder.
 - Make sure you create an acceptable [README](../../Resources/03-Readmees/README.md) file for this project (presentation is everything!)
 - Commit this content to your github repo by the due date.
-- Bring a printout of your Banner + source file (only no input files).
-
-#### Banner
-
-```txt
-P161
-4883
-YOURLASTMNAME
-```

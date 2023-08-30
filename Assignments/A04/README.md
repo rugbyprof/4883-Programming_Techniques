@@ -1,9 +1,10 @@
 ## Assignment 4  - Easy Breezy
-#### Due: 12-02-2022 (Friday @ 11:00 a.m.)
+#### Due: 12-07-2023 (Thursday @ 1:00 p.m.)
 
 ### Overviews
 
-Below is a list of 30 problems, all EASY. Have 10 of these done by semesters end.
+- Below is a list of 30 problems, all EASY. Have 10 of these done by semesters end.
+- Hashmat does not count!!
 
 * [00100](https://cs.msutexas.edu/uva/api/pdfs/001/100.pdf) - The 3n + 1 problem
 * [00272](https://cs.msutexas.edu/uva/api/pdfs/002/272.pdf) - TEX Quotes
