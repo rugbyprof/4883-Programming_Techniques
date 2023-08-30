@@ -1,5 +1,5 @@
 ## Assignment 4  - Easy Breezy
-#### Due: 12-07-2023 (Thursday @ 1:00 p.m.)
+#### Due: 12-06-2023 (Wednesday @ 1:00 p.m.)
 
 ### Overviews
 

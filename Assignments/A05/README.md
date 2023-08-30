@@ -1,5 +1,5 @@
 ## Assignment 5 - Traffic Lights
-#### Due: 09-07-2023 (Thursday @ 1:00 p.m.)
+#### Due: 09-07-2023 (Wednesday @ 1:00 p.m.)
 
 ### Overview
 
@@ -76,5 +76,5 @@ There are no known ways to significantly increase mental capacity. But if you ex
 
 - Create a folder called `P161` in your `assignments` folder.
 - Place the pdf, your solution code, and any input files you used in this folder.
-- Make sure you create an acceptable [README](../../Resources/03-Readmees/README.md) file for this project (presentation is everything!)
+- Make sure you create an acceptable [README](../../Resources/03-Readmees/README.md) file for this project
 - Commit this content to your github repo by the due date.
