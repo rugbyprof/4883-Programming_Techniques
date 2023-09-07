@@ -1,5 +1,5 @@
 ## Assignment 7 - Rails
-#### Due: 09-15-2023 (Thursday @ 11:00 a.m.)
+#### Due: 09-22-2023 (Friday @ 5:00 p.m.)
 
 ### Overview
 

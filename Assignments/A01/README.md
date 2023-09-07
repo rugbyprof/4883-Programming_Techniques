@@ -17,7 +17,7 @@ If you have had me before, and this seems **TL;DR** make sure you:
 
 ---
 
-<a href="https://imgbox.com/mhztyZq5" target="_blank"><img src="https://thumbs2.imgbox.com/58/73/mhztyZq5_t.png" alt="image host" width="120"/></a>
+<a href="https://images2.imgbox.com/d3/be/V4785lWc_o.png" target="_blank"><img src="https://thumbs2.imgbox.com/58/73/mhztyZq5_t.png" alt="image host" width="120"/></a>
 
 
 The first step in doing well in any of my courses is establishing a base of communication. Why? Not everything can be done while we are in class.
@@ -53,7 +53,7 @@ Now that we have our communication client set up, we probably need to start gett
 ### Class Roster
 ---
 
-<a href="https://imgbox.com/ywxsN67C" target="_blank"><img src="https://thumbs2.imgbox.com/c6/3a/ywxsN67C_t.png" alt="image host" width="90"/></a>
+<img src="https://images2.imgbox.com/38/ed/t8796trL_o.png" alt="image host" width="90"/>
 
 #### Update the Class Roster:
 

@@ -1,7 +1,7 @@
 # 4883 Programming Techniques
 
-### Roster
-<a href="https://docs.google.com/spreadsheets/d/1Ul2tjl74iJoQRd6qQ6leq0M5kmy-lEUSc5PQD91JK6c/edit?usp=sharing"><img src="https://images2.imgbox.com/35/7c/I0dU5rrM_o.png" width="30">Class Roster</a>
+<!-- ### Roster
+<a href="https://docs.google.com/spreadsheets/d/1Ul2tjl74iJoQRd6qQ6leq0M5kmy-lEUSc5PQD91JK6c/edit?usp=sharing"><img src="https://images2.imgbox.com/35/7c/I0dU5rrM_o.png" width="30">Class Roster</a> -->
 
 
 ### General Course Info

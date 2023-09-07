@@ -1,5 +1,5 @@
 ## Assignment 5 - Traffic Lights
-#### Due: 09-07-2023 (Wednesday @ 1:00 p.m.)
+#### Due: 09-08-2023 (Friday @ 5:00 p.m.)
 
 ### Overview
 
