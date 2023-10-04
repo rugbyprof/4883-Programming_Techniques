@@ -1,5 +1,36 @@
 # Floyd Warshall
 
+Here's a high-level description of the algorithm:
+
+
+**Input:**
+- Graph G with nodes and weighted edges.
+
+**Output:**
+- Shortest distances between all pairs of nodes.
+
+**Initialization:**
+- Create a 2D array `dist[][]` where `dist[i][j]` represents the shortest distance from node `i` to node `j`. Initialize all values to infinity except for `dist[i][i]`, which should be set to 0.
+
+**Algorithm:**
+1. For each intermediate node `k` in the range of all nodes:
+   a. For each pair of nodes `i` and `j` (where `i` is not equal to `j`):
+      - Calculate a candidate shortest distance `new_dist = dist[i][k] + dist[k][j]`.
+      - If `new_dist` is less than the current `dist[i][j]`, update `dist[i][j]` with `new_dist`.
+
+2. Repeat step 1 for all possible intermediate nodes `k`.
+
+3. The `dist[][]` array now contains the shortest distances between all pairs of nodes in the graph.
+
+**Key Points:**
+- The algorithm iteratively considers all nodes as potential intermediates to find shorter paths between any two nodes.
+- It uses dynamic programming to maintain and update the shortest distances between pairs of nodes.
+- The algorithm works for both directed and undirected graphs, and it can handle negative edge weights, but it does not work with negative cycles.
+
+In summary, Floyd-Warshall is a versatile algorithm for finding all-pairs shortest paths in a weighted graph. It is efficient for small to medium-sized graphs but becomes less practical for very large graphs due to its time complexity of O(V^3), where V is the number of nodes in the graph.
+
+## Implementation
+
 Implementation of the Floyd-Warshall algorithm in C++:
 
 ```cpp
