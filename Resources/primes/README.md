@@ -147,3 +147,8 @@ In this function, we first handle the smallest prime, `2`, and then move on to o
 This function returns a vector containing the prime factors. If a prime divides the number multiple times, that prime will appear multiple times in the vector (e.g., for 12, the vector will contain `2, 2, 3`).
 
 This code should work efficiently for "relatively small numbers", but remember that for very large numbers or for a huge number of factorization operations, more sophisticated techniques or optimizations would be needed.
+
+## Blakes Approach
+
+1. Take number and continuously divide by some prime in a list
+2. If the result of the division is prime ... were good.
