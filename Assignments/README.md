@@ -14,6 +14,6 @@
 | ~<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Assignments/A06">A06</a>~ | ~<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Assignments/A06"> Assignment 6 </a>~ | ~<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Assignments/A06"> Hardwood Species</a>~ | ~<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Assignments/A06"> 09-15-2023 (Friday @ 5:00 p.m.)</a>~ | ~<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Assignments/A06">2023-09-15 00:00:00</a>~ | ---- |
 | ~<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Assignments/A07">A07</a>~ | ~<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Assignments/A07"> Assignment 7 </a>~ | ~<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Assignments/A07"> Rails</a>~ | ~<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Assignments/A07"> 09-22-2023 (Friday @ 5:00 p.m.)</a>~ | ~<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Assignments/A07">2023-09-22 00:00:00</a>~ | ---- |
 
-<sup>Last Updated: 2023-10-09 (Mon @ 13:04)</sup> 
+<sup>Last Updated: 2023-10-09 (Mon @ 13:05)</sup> 
 
 <sup>***Days Left is only accurate if the `Last Updated` date is the same as todays date. Otherwise, use the due date!***</sup> 
