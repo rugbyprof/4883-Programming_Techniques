@@ -1,9 +1,11 @@
 ## Lectures
 
-| Folder | Title | Description | Due | Filename |
-|-----|-----|-----|-----|-----|
-| None | None | None | None | None |
+| Folder | Title | Description | Due | dueDate |  |
+|:------|:------|:------|:-----:|:-----:|-----|
+| ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Lectures/01_primes_discussion">01_primes_discussion</a>*** | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Lectures/01_primes_discussion"> Problem UVa 11086 </a>*** | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Lectures/01_primes_discussion"> Composite Prime.</a>*** | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Lectures/01_primes_discussion">N/A</a>*** | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Lectures/01_primes_discussion">None</a>*** |  |
+| ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Lectures/02_Convex_Hull">02_Convex_Hull</a>*** | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Lectures/02_Convex_Hull">None</a>*** | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Lectures/02_Convex_Hull">None</a>*** | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Lectures/02_Convex_Hull"> Question</a>*** | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Lectures/02_Convex_Hull">None</a>*** |  |
+| ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Lectures/03_DP">03_DP</a>*** | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Lectures/03_DP">None</a>*** | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Lectures/03_DP">None</a>*** | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Lectures/03_DP">N/A</a>*** | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Lectures/03_DP">None</a>*** |  |
 
-<sup>Last Updated: 2023-10-09 (Mon @ 13:05)</sup> 
+<sup>Last Updated: 2023-10-18 (Wed @ 13:36)</sup> 
 
 <sup>***Days Left is only accurate if the `Last Updated` date is the same as todays date. Otherwise, use the due date!***</sup> 
