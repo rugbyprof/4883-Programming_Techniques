@@ -68,6 +68,6 @@ biltong filet mignon. Shoulder chislic ground round pork burgdoggen hamburger.
 I used the sources to help me understand what a hexogram is, and then I used that knowledge to solve the posed problem. 
 ```
 
-The above markdown will produce a README that looks like:
+<!-- The above markdown will produce a README that looks like:
 
-<img src="https://cs.msutexas.edu/~griffin/zcloud/zcloud-files/example_uva_readme2020.png" width="600">
+<img src="https://cs.msutexas.edu/~griffin/zcloud/zcloud-files/example_uva_readme2020.png" width="600"> -->

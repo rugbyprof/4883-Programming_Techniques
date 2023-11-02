@@ -1,4 +1,4 @@
-Sure, Terry! The problem 10755 - Garbage Heap on the UVA Online Judge is a dynamic programming problem that can be solved using a bottom-up approach. Here's a basic approach to solving it:
+The problem 10755 - Garbage Heap on the UVA Online Judge is a dynamic programming problem that can be solved using a bottom-up approach. Here's a basic approach to solving it:
 
 **Problem Description:**
 
