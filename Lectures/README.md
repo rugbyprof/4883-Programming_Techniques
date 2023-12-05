@@ -8,6 +8,6 @@
 | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Lectures/10755">10755</a>*** | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Lectures/10755">None</a>*** | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Lectures/10755">None</a>*** | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Lectures/10755">N/A</a>*** | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Lectures/10755">None</a>*** |  |
 | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Lectures/673">673</a>*** | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Lectures/673">None</a>*** | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Lectures/673">None</a>*** | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Lectures/673">N/A</a>*** | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Lectures/673">None</a>*** |  |
 
-<sup>Last Updated: 2023-12-05 (Tue @ 01:17)</sup> 
+<sup>Last Updated: 2023-12-05 (Tue @ 01:29)</sup> 
 
 <sup>***Days Left is only accurate if the `Last Updated` date is the same as todays date. Otherwise, use the due date!***</sup> 
