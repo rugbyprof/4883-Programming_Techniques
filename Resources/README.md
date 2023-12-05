@@ -1,6 +1,6 @@
 ## Resources
 
-| Folder | Title | Description | Due | dueDate |  |
+| Folder | Title | Description | Due | Due Date |  |
 |:------|:------|:------|:-----:|:-----:|-----|
 | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Resources/00_Algorithms">00_Algorithms</a>*** | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Resources/00_Algorithms">None</a>*** | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Resources/00_Algorithms">None</a>*** | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Resources/00_Algorithms">| #   | File                             | Description |</a>*** | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Resources/00_Algorithms">None</a>*** |  |
 | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Resources/01_Book">01_Book</a>*** | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Resources/01_Book"> Book  </a>*** | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Resources/01_Book"> Competitive Programming Books</a>*** | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Resources/01_Book">| #  | Name  | Link |</a>*** | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Resources/01_Book">None</a>*** |  |
@@ -12,6 +12,6 @@
 | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Resources/08_graph_bipartite">08_graph_bipartite</a>*** | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Resources/08_graph_bipartite"> Placeholder Readme </a>*** | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Resources/08_graph_bipartite"> No Description</a>*** | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Resources/08_graph_bipartite">N/A</a>*** | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Resources/08_graph_bipartite">None</a>*** |  |
 | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Resources/09_graph_dfs_bfs">09_graph_dfs_bfs</a>*** | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Resources/09_graph_dfs_bfs">None</a>*** | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Resources/09_graph_dfs_bfs">None</a>*** | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Resources/09_graph_dfs_bfs">N/A</a>*** | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Resources/09_graph_dfs_bfs">None</a>*** |  |
 
-<sup>Last Updated: 2023-12-05 (Tue @ 01:53)</sup> 
+<sup>Last Updated: 2023-12-05 (Tue @ 01:55)</sup> 
 
 <sup>***Days Left is only accurate if the `Last Updated` date is the same as todays date. Otherwise, use the due date!***</sup> 
