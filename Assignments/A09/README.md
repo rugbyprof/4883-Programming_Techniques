@@ -1,4 +1,4 @@
-## BFS Problems - Breadth-First Search (Mainly)
+## BFS Problems - Breadth First Search (Mainly)
 #### Due: 12-08-2023 (Friday @ 5:00 p.m.)
 
 Here are a list of problems dealing with BFS. Choose one to solve and upload to UVA.

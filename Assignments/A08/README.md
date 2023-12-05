@@ -1,4 +1,4 @@
-## DFS Problems - Depth-First Search
+## DFS Problems - Depth First Search
 #### Due: 12-08-2023 (Friday @ 5:00 p.m.)
 
 Here are a list of problems dealing with DFS. Choose one to solve and upload to UVA.
