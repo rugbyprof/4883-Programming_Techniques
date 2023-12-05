@@ -1,4 +1,9 @@
 ## Shortest Path Problems - Different algorithms
+#### Due: 12-08-2023 (Friday @ 5:00 p.m.)
+
+
+Here are a list of problems dealing with Shortest Path. Choose one to solve and upload to UVA.
+
 
 1. **UVa 119 - Greedy Gift Givers (Shortest Path)**:
    - Description: Determine the final monetary balance of a group of friends who give and receive gifts.

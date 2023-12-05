@@ -1,5 +1,5 @@
 ## Assignment 6 - Hardwood Species
-#### Due: 09-15-2023 (Friday @ 5:00 p.m.)
+#### Due: 12-08-2023 (Friday @ 5:00 p.m.)
 
 ### Overview
 

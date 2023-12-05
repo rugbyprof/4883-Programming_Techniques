@@ -1,4 +1,9 @@
 ## Minimum Spanning Tree Problems - Different algorithms
+#### Due: 12-08-2023 (Friday @ 5:00 p.m.)
+
+
+Here are a list of problems dealing with MST. Choose one to solve and upload to UVA.
+
 
 1. **UVa 1234 - RACING (MST)**:
    - Description: Find the minimum cost to connect all nodes in a graph while minimizing the maximum edge weight.

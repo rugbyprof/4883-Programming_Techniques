@@ -1,4 +1,8 @@
 ## BFS Problems - Breadth-First Search (Mainly)
+#### Due: 12-08-2023 (Friday @ 5:00 p.m.)
+
+Here are a list of problems dealing with BFS. Choose one to solve and upload to UVA.
+
 
 1. **UVa 352 - The Seasonal War**:
    - Description: Count the number of connected components in a binary image where each '1' represents an eagle.

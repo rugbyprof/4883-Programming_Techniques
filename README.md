@@ -46,11 +46,11 @@ Will be based on number of problems solved. Full credit for on time solutions. H
 
 | Categories      | Portion of Course | \|\| | Letter Grade | Grade Range |
 | :-------------- | :---------------: | ---- | :----------: | :---------: |
-| Solved Problems |        65%        | \|\| |      A       |   89-100    |
+| Solved Problems |        60%        | \|\| |      A       |   89-100    |
 | Github          |        10%        | \|\| |      B       |    79-88    |
-| Participation   |        5%         | \|\| |      C       |    69-78    |
+| Participation   |        10%        | \|\| |      C       |    69-78    |
 | Presentation    |        10%        | \|\| |      D       |    59-68    |
-| Project         |        10%        | \|\| |      F       |  below 59   |
+| ~~Project~~     |      ~~10%~~      | \|\| |      F       |  below 59   |
 |                 |                   | \|\| |              |             |
 
 ## Teaching Philosophy
