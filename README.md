@@ -7,7 +7,7 @@
 
 ## Office Hours
 
-<a href="https://images2.imgbox.com/0c/ee/HDIcuw0A_o.png" target="_blank"><img src="https://images2.imgbox.com/0c/ee/HDIcuw0A_o.png" alt="image host"/></a>
+<a href="https://images2.imgbox.com/0c/ee/HDIcuw0A_o.png" target="_blank"><img src="https://images2.imgbox.com/0c/ee/HDIcuw0A_o.png" alt="image host" width="150"/></a>
 
 ### General Course Info
 
