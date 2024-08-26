@@ -1,5 +1,6 @@
-## Assignment 4  - Easy Breezy
-#### Due: 12-08-2023 (Friday @ 5:00 p.m.)
+## Assignment 4 - Easy Breezy
+
+#### Due: 12-06-2024 (Last Day of Class)
 
 ### Overviews
 
@@ -42,4 +43,3 @@
 - Place the pdf, your solution code, and any input files you used in this folder.
 - Make sure you create an acceptable [README](../../Resources/03-Readmees/README.md) file for this project (presentation is everything!)
 - Commit this content to your github repo by the due date.
-

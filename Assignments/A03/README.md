@@ -1,13 +1,15 @@
-## Assignment 3 - Register + Hashmat 
-#### Due: 09-04-2023 (Monday @ 5:00 p.m.)
+## Assignment 3 - Register + Hashmat
+
+#### Due: 09-05-2024 (Thursday @ classtime)
 
 Yes, I know this is a holiday.
 
 ## Online Judge Registration
 
 Go to https://onlinejudge.org/ and register with the site. After you register you will need to remember:
--  your `username` and 
--  your `online judge id`. 
+
+- your `username` and
+- your `online judge id`.
 
 The id is an integer similar to: `845581` (this is mine). You find it under the `MyAccount` link. After you get registered go and update the class roster with both of those values.
 
@@ -18,7 +20,7 @@ If you don't fix the class roster with those values, then I cannot see what you 
 ## Online Judge First Problem
 
 - Number:
-  - 10055 
+  - 10055
 - Name:
   - Hashmat the brave warrior
 - URL:
@@ -29,6 +31,7 @@ If you don't fix the class roster with those values, then I cannot see what you 
 Read about Hashmat in the provided pdf and make changes to the code below to correctly solve the problem. The code below works, but will not provide a correct answer. This fact will be exposed if you attempt running it with the uDebug input data sets.
 
 ### Starter Code
+
 ```cpp
 /**
 * Name
@@ -43,9 +46,9 @@ using namespace std;
 
 int main() {
     long B = 0, A = 0;
-    
+
     while (cin >> A >> B) {
-        
+
         // your stuff here
 
     }
@@ -59,4 +62,3 @@ int main() {
 - Place the pdf, your solution code, and any input files you used in this folder.
 - Make sure you create an acceptable [README](../../Resources/03-Readmees/README.md) file for this project (presentation is everything!)
 - Commit this content to your github repo by the due date.
-
