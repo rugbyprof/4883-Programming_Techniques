@@ -1,6 +1,6 @@
 ## Assignment 1 - Establishing Comms
 
-#### Due: 08-29-2024 (Thursday @ classtime)
+#### Due: 09-06-2024 (Friday)
 
 ## Getting Setup
 
@@ -46,15 +46,9 @@ Now that we have our communication client set up, we probably need to start gett
 
 - Invite to Griffin's Slack Channel <a href="https://join.slack.com/t/griffin-courses/shared_invite/zt-cw6fonr5-_CTN1kbgP3UaL9kRAzUICw" target="_blank">**HERE**</a>
 
-### Class Roster
-
----
-
-<img src="https://www.gstatic.com/images/branding/product/2x/forms_2020q4_48dp.png" width="120">
-
 #### Fill Out Comms Form:
 
-- Here is a link to the form for assignment 1: <a href="https://forms.gle/NRsoyMXWQzohcasc8"><img src="https://www.gstatic.com/images/branding/product/2x/forms_2020q4_48dp.png" width="30">Establish Comms Form</a>
+- Here is a link to the form for assignment 1: <a href="https://forms.gle/v2pNHtv2jsJnRje39"><img src="https://www.gstatic.com/images/branding/product/2x/forms_2020q4_48dp.png" width="30">Establish Comms Form</a>
 
 - Fill out the form fields accurately please. I use this info to automate some grading tasks and if your info is wrong, you break my scripts and might not get grades for some items.
 

@@ -1,8 +1,6 @@
 ## Assignment 3 - Register + Hashmat
 
-#### Due: 09-05-2024 (Thursday @ classtime)
-
-Yes, I know this is a holiday.
+#### Due: 09-06-2024 (Friday)
 
 ## Online Judge Registration
 
