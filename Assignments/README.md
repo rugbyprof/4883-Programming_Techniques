@@ -8,6 +8,6 @@
 | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Assignments/A04">A04</a>*** | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Assignments/A04"> Assignment 4 </a>*** | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Assignments/A04"> What To Do</a>*** | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Assignments/A04">Sep 10th</a>*** | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Assignments/A04">Monday</a>*** | 5 |
 | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Assignments/A05">A05</a>*** | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Assignments/A05"> Assignment 4 </a>*** | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Assignments/A05"> Easy Breezy</a>*** | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Assignments/A05">Dec 6th</a>*** | ***<a href="https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Assignments/A05">Last Day of Class</a>*** | 92 |
 
-<sup>Last Updated: 2024-09-05 (Thu @ 06:37)</sup> 
+<sup>Last Updated: 2024-09-05 (Thu @ 11:07)</sup> 
 
 <sup>***Days Left is only accurate if the `Last Updated` date is the same as todays date. Otherwise, use the due date!***</sup> 
