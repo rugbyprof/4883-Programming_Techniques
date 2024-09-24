@@ -1,3 +1,7 @@
+## Assignment 8 - Graphin Sleezy
+
+#### Due: 12-06-2024 (Last Day of Class)
+
 ## Assignment Overview
 
 Both DFS and BFS are foundational graph traversal algorithms that can be used in a variety of problems, including those involving connected components, tree traversals, and exploring graph-based data structures. Here are **5 LeetCode problems** that require **graph traversal** (DFS/BFS). I explicitly avoided shortest path or spanning tree algorithms.
