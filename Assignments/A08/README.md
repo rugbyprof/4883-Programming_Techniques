@@ -92,6 +92,8 @@ BFS(graph, start_node):
                 enqueue neighbor
 ```
 
+More on DFS and BFS HERE.
+
 ## Submission
 
 - Make sure you put a folder called A08 in your Assignments folder.

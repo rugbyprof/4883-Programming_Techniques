@@ -1,3 +1,5 @@
+## DFS and BFS Problems
+
 Here are some **LeetCode problems** that commonly require **Depth-First Search (DFS)** or **Breadth-First Search (BFS)** to solve:
 
 ### Problems that Use DFS:
