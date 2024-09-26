@@ -10,11 +10,11 @@ Both DFS and BFS are foundational graph traversal algorithms that can be used in
 
 Choose 1 of the following:
 
-- [LeetCode 692: Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)
-- [LeetCode 347: Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
-- [LeetCode 451: Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)
-- [LeetCode 973: K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)
-- [LeetCode 1046: Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)
+- [LeetCode 200: Number of Islands](https://leetcode.com/problems/Number-of-Islands/)
+- [LeetCode 733: Flood Fill](https://leetcode.com/problems/Flood-Fill/)
+- [LeetCode 694: Number of Distinct Islands](https://leetcode.com/problems/Number-of-Distinct-Islands/)
+- [LeetCode 841: Keys and Rooms](https://leetcode.com/problems/Keys-and-Rooms)
+- [LeetCode 797: All Paths From Source to Target](https://leetcode.com/problems/All-Paths-From-Source-to-Target/)
 
 ## Problem Descriptions
 
