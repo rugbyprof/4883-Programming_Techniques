@@ -72,6 +72,8 @@ For three points `( A(x_1, y_1) ), ( B(x_2, y_2) ), and ( C(x_3, y_3) )`, the or
 
 Orientation`(A, B, C) = (x_2 - x_1) * (y_3 - y_1) - (y_2 - y_1) * (x_3 - x_1)`
 
+            
+
 - **Positive value**: Points `( A )`, `( B )`, and `( C )` are **counterclockwise**.
 - **Negative value**: Points `( A )`, `( B )`, and `( C )` are **clockwise**.
 - **Zero**: Points `( A )`, `( B )`, and `( C )` are **collinear**.
@@ -133,8 +135,17 @@ Two line segments `( AB )` and `( CD )` intersect if:
 
 Let's take two line segments:
 
-- Segment 1: `( A(1, 1) ), ( B(4, 4) )`
-- Segment 2: `( C(1, 8) ), ( D(2, 4) )`
+- Segment 1: `1( A(1, 1) ), 2( B(4, 4) )`
+- Segment 2: `3( C(1, 8) ), 4( D(2, 4) )`
+
+`(X, Y, Z) = (Y[0] - X[0]) * (Z[1] - X[1]) - (Y[1] - X[1]) * (Z[0] - X[0])`
+               2      1      3      1        2    1        3     1
+`(A, B, C) =  (B[0]-A[0]) * (C[1]-A[1]) - (B[1]-A[1]) * (C[0]-A[0])` # (4 - 1) * (8 - 1) - (4 - 1) * (1 - 1)
+`(A, B, D) =  (B[0]-A[0]) * (D[1]-A[1]) - (B[1]-A[1]) * (D[0]-A[0])` 
+
+`(C, D, A) =  (D[0]-C[0]) * (A[1]-C[1]) - (D[1]-C[1]) * (A[0]-C[0])`
+
+`(C, D, B) =  (D[0]-C[0]) * (B[1]-C[1]) - (D[1]-C[1]) * (B[0]-C[0])`
 
 Now let's compute the orientations:
 
@@ -142,18 +153,22 @@ Now let's compute the orientations:
 
 - Orientation of `( A )`, `( B )`, and `( C )`:
   - Orientation(A, B, C) = `(4 - 1) * (8 - 1) - (4 - 1) * (1 - 1) = 3 * 7 - 3 * 0 = 21`
+  -            (A, B, C) =  (x2-x1) * (y3-y1) - (y2-y1) * (x3-x1)`
   - Since the result is positive, the points are **counterclockwise**.
 
 #### 02
 
 - Orientation of `( A )`, `( B )`, and `( D)`:
   - Orientation(A, B, D) = `(4 - 1) * (4 - 1) - (4 - 1) * (2 - 1) = 3 * 3 - 3 * 1 = 6`
+  -            (A, B, D) =  (x2-x1) * (y4-y1) - (y2-y1) * (x4-x1)`
   - This is also positive, so the points are **counterclockwise**.
 
 #### 03
 
 - Orientation of `( C )`, `( D)`, and `( A )`:
   - Orientation(C, D, A) = `(2 - 1) * (1 - 8) - (4 - 8) * (1 - 1) = 1 * (-7) - (-4) * 0 = -7`
+  -            (A, B, C) =  (x2-x1) * (y3-y1) - (y2-y1) * (x3-x1)`
+  -            (C, D, A) =  (x4-x3) * (y1-y3) - (y4-y3) * (x1-x3)`
   - The result is negative, so the points are **clockwise**.
 
 #### 04
