@@ -6,4 +6,6 @@
 
 ### Overview
 
-Do [LeetCode 335: Self Crossing](./Line_Crossing.md) and two more that will be listed below and discussed in class Thursday.
+- [LeetCode 335: Self Crossing](./335/)
+- [LeetCode 973: K Closest Points](./973/)
+- [LeetCode 3102: Minimize Manhattan Distances](./3102/)
