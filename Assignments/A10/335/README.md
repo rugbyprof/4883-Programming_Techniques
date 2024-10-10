@@ -10,21 +10,21 @@ Return true if your path crosses itself or false if it does not.
 
 Example 1:
 
-<img src="https://assets.leetcode.com/uploads/2022/12/21/11.jpg">
+<img src="https://assets.leetcode.com/uploads/2022/12/21/11.jpg" width="400">
 
 Input: distance = `[2,1,1,2]`
 Output: true
 Explanation: The path crosses itself at the point (0, 1).
 Example 2:
 
-<img src="https://assets.leetcode.com/uploads/2022/12/21/22.jpgv">
+<img src="https://assets.leetcode.com/uploads/2022/12/21/22.jpg"  width="400">
 
 Input: distance = `[1,2,3,4]`
 Output: false
 Explanation: The path does not cross itself at any point.
 Example 3:
 
-<img src="https://assets.leetcode.com/uploads/2022/12/21/33.jpg">
+<img src="https://assets.leetcode.com/uploads/2022/12/21/33.jpg" width="400">
 
 Input: distance = `[1,1,1,2,1]`
 Output: true
