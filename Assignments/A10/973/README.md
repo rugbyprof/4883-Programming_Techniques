@@ -10,7 +10,7 @@ You may return the answer in any order. The answer is guaranteed to be unique (e
 
 Example 1:
 
-<img src="https://assets.leetcode.com/uploads/2021/03/03/closestplane1.jpg">
+<img src="https://assets.leetcode.com/uploads/2021/03/03/closestplane1.jpg" width="300">
 
 Input: `points = [[1,3],[-2,2]], k = 1`
 Output: `[[-2,2]]`
