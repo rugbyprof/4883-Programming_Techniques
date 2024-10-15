@@ -1,6 +1,6 @@
-## Midterm Exam
+## Midterm Exam - Solve 2 Problems in Class
 
-#### Due: 10-17-2024 (Thursday)
+#### Due: 10-22-2024 (Tuesday)
 
 Midterm will consist of two problems to be completed in class in one hour and twenty minutes. I will assign everyone 1 easy and 1 medium problem to complete. Everyone may get the same problems, or I may randomly assign each person their own two problems. The problems to study are listed below and are a mix of problem paradigms.
 
