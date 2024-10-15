@@ -10,26 +10,20 @@ With the ease of finding solutions for LeetCode and Uva Online judge, I simply d
 
 ### Easy
 
-- 88. Merge Sorted Array
-- https://leetcode.com/problems/merge-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150
+- **88**: [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150)
 
-- 125. Valid Palindrome
-- https://leetcode.com/problems/valid-palindrome/description/?envType=study-plan-v2&envId=top-interview-150
+- **125**: [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/?envType=study-plan-v2&envId=top-interview-150)
 
-- 108. Convert Sorted Array to Binary Search Tree
-- https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/?envType=study-plan-v2&envId=top-interview-150
+- **108**: [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/?envType=study-plan-v2&envId=top-interview-150)
 
 - One unknown problem that is similar to the above 3
 
 ## Medium
 
-- 289. Game of Life
-- https://leetcode.com/problems/game-of-life/description/?envType=study-plan-v2&envId=top-interview-150
+- **289**: [Game of Life](https://leetcode.com/problems/game-of-life/description/?envType=study-plan-v2&envId=top-interview-150)
 
-- 102. Binary Tree Level Order Traversal
-- https://leetcode.com/problems/binary-tree-level-order-traversal/description/?envType=study-plan-v2&envId=top-interview-150
+- **102**: [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/?envType=study-plan-v2&envId=top-interview-150)
 
-- 200. Number of Islands
-- https://leetcode.com/problems/number-of-islands/description/?envType=study-plan-v2&envId=top-interview-150
+- **200**: [Number of Islands](https://leetcode.com/problems/number-of-islands/description/?envType=study-plan-v2&envId=top-interview-150)
 
 - One unknown problem that is similar to the above 3
