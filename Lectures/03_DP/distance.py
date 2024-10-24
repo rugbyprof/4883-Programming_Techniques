@@ -6,6 +6,8 @@ distance = min_edit_distance(word1, word2)
 print(f"Levenshtein distance between '{word1}' and '{word2}': {distance}")
 """
 
+import sys
+
 
 def min_edit_distance(seq1, seq2):
     m, n = len(seq1), len(seq2)
@@ -26,13 +28,19 @@ def min_edit_distance(seq1, seq2):
     return dp[m][n]
 
 
+# Read from stdin
+for line in sys.stdin:
+    ln, str1 = line.strip().split()
+    ln2, str2 = input().strip().split()
+    print(min_edit_distance(str1, str2))
 
-with open("input") as f:
-    strings = f.readlines()
-    
 
-for i in range(0,len(strings)-1,2):
-    # print(strings[i].strip())
-    # print(strings[i+1].strip())
-    distance = min_edit_distance(strings[i].strip(), strings[i+1].strip())
-    print(distance)
+# with open("input") as f:
+#     strings = f.readlines()
+
+
+# for i in range(0,len(strings)-1,2):
+#     # print(strings[i].strip())
+#     # print(strings[i+1].strip())
+#     distance = min_edit_distance(strings[i].strip(), strings[i+1].strip())
+#     print(distance)
