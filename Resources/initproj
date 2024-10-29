@@ -1,6 +1,9 @@
 #!/usr/bin/env python3
 """Uva Project Initializer
 
+Pdf's
+https://onlinejudge.org/external/101/10100.pdf
+
 """
 
 import sys
@@ -12,7 +15,8 @@ from requests import request
 from shutil import copyfile
 from bs4 import BeautifulSoup
 
-def CommentBlock(num,pdf,name=None):
+
+def CommentBlock(num, pdf, name=None):
     comment = f"""
 /*****************************************************************************
 *                    
@@ -29,6 +33,7 @@ def CommentBlock(num,pdf,name=None):
 
     return comment
 
+
 ################################################################################################################
 # ███╗   ███╗██╗   ██╗     ██╗  ██╗██╗    ██╗ █████╗ ██████╗  ██████╗ ███████╗
 # ████╗ ████║╚██╗ ██╔╝     ██║ ██╔╝██║    ██║██╔══██╗██╔══██╗██╔════╝ ██╔════╝
@@ -36,10 +41,10 @@ def CommentBlock(num,pdf,name=None):
 # ██║╚██╔╝██║  ╚██╔╝ ╚════╝██╔═██╗ ██║███╗██║██╔══██║██╔══██╗██║   ██║╚════██║
 # ██║ ╚═╝ ██║   ██║        ██║  ██╗╚███╔███╔╝██║  ██║██║  ██║╚██████╔╝███████║
 # ╚═╝     ╚═╝   ╚═╝        ╚═╝  ╚═╝ ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝
-                                                                            
+
 
 def myKwargs(argv):
-    '''
+    """
     Processes argv list into plain args and kwargs.
     Just easier than using a library like argparse for small things.
     Example:
@@ -53,17 +58,18 @@ def myKwargs(argv):
         spaces between k=v would result in bad params
     Returns:
         tuple  (args,kargs)
-    '''
+    """
     args = []
     kargs = {}
 
     for arg in argv:
-        if '=' in arg:
-            key,val = arg.split('=')
+        if "=" in arg:
+            key, val = arg.split("=")
             kargs[key] = val
         else:
             args.append(arg)
-    return args,kargs
+    return args, kargs
+
 
 class UvaProject:
     def __init__(self, **kwargs):
@@ -98,7 +104,7 @@ class UvaProject:
         self.createFolderTemplate()  # create folder for project
         self.saveUdebugFiles()  # go get uDebug files and copy to folder
         self.createReadme()  # create a readme file.
-        self.addCommentBlock() # add comment block to top of main.cpp
+        self.addCommentBlock()  # add comment block to top of main.cpp
 
     def uvHunt(self, num):
         """Gets uvHunt info about a problem so we can get the problem id
@@ -115,9 +121,9 @@ class UvaProject:
 
     def addCommentBlock(self):
         print("Adding comment block to main.cpp...")
-        block = CommentBlock(self.num,self.pdfUrl,name=None)
+        block = CommentBlock(self.num, self.pdfUrl, name=None)
         main = os.path.join(self.saveFolderNum, "main.cpp")
-        with open(main, 'r+') as file:
+        with open(main, "r+") as file:
             content = file.read()
             file.seek(0)
             file.write(block + content)
@@ -155,16 +161,20 @@ class UvaProject:
 
         Args:
             num (int): problem number
+
+            https://onlinejudge.org/external/1/100.pdf
+            https://onlinejudge.org/external/1/112.pdf
+            https://onlinejudge.org/external/10/1012.pdf
+            https://onlinejudge.org/external/101/10100.pdf
         """
         # call my own api to grab pdf link
-        response = get(
-            f"https://cs.msutexas.edu/uva/api/?route=problemPdf&num={self.num}"
-        )
+        # f"https://cs.msutexas.edu/uva/api/?route=problemPdf&num={self.num}"
+        bucket = self.num // 100
+        response = get(f"https://onlinejudge.org/external/{bucket}/{self.num}.pdf")
         info = response.json()
 
         # pull pdf url out of api response
         return info["data"]["pdf_url"]
-
 
     def getUdebugDataIds(self):
         """Get uDebug data id's, or the html integer values in the html so I can
@@ -238,7 +248,9 @@ def usage():
     print("or")
     print("    ./initproj 112 template=/path/to/my/template.cpp")
     print("or")
-    print("    ./initproj 112 template=/path/to/my/template.cpp saveFolder=/path/to/my/folder")
+    print(
+        "    ./initproj 112 template=/path/to/my/template.cpp saveFolder=/path/to/my/folder"
+    )
     sys.exit()
 
 
@@ -248,15 +260,14 @@ if __name__ == "__main__":
     # template = Location of cpp file you use as a peoject skeleton / template
     # saveFolder = A path where you want to save project folder. Remove this param to save in current folder.
 
-
-    args,kwargs = myKwargs(sys.argv[1:])
+    args, kwargs = myKwargs(sys.argv[1:])
 
     # make sure you added the problem number as a param
     if len(args) == 0:
         usage()
 
-    saveFolder = kwargs.get("saveFolder","./InProgress/")
-    template = kwargs.get("saveFolder","./template/template.cpp")
+    saveFolder = kwargs.get("saveFolder", "./InProgress/")
+    template = kwargs.get("saveFolder", "./template/template.cpp")
 
     # grab problem number from command line
     problemNum = args[0]

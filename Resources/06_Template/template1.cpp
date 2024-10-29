@@ -15,36 +15,53 @@ using namespace std;
 
 #define FileIn(file) freopen(file ".inp", "r", stdin)
 #define FileOut(file) freopen(file ".out", "w", stdout)
-#define FOR(i, a, b) for (int i = a; i <= b; i++) // less simple more refined
-#define REP(i, n) for (int i = 0; i < n; i++)     // simple 0=>N for
-#define Fill(ar, val)                                                          \
-  memset(ar, val, sizeof(ar)) // old school memory manip, but it works
+#define FOR(i, a, b) for (int i = a; i <= b; i++)  // less simple more refined
+#define REP(i, n) for (int i = 0; i < n; i++)      // simple 0=>N for
+#define Fill(ar, val) memset(ar, val, sizeof(ar))  // old school memory manip, but it works
 #define PI 3.1415926535897932385
-#define uint64 unsigned long long // name for unsigned long long
-#define int64 long long           // name for long long
+#define uint64 unsigned long long  // name for unsigned long long
+#define int64 long long            // name for long long
 #define all(ar) ar.begin(), ar.end()
-#define pb push_back      // lazy
-#define bit(n) (1 << (n)) // left shift by 1 = multiply by 2
+#define pb push_back       // lazy
+#define bit(n) (1 << (n))  // left shift by 1 = multiply by 2
 #define Last(i) (i & -i)
-#define INF 500000000 // infinity
-#define EPS 1e-7      // tiny epsilon
-#define maxN 10000    // change to fit problem
-#define endl "\n"     // \n doesn't flush the buffer
+#define INF 500000000  // infinity
+#define EPS 1e-7       // tiny epsilon
+#define maxN 10000     // change to fit problem
+#define endl "\n"      // \n doesn't flush the buffer
+
+#define DEBUG 1
+#define debug(k, v) (if (DEBUG) { cout << k << ":" << v << endl; })
+
+using namespace std;
+
+int i = 0, C = 0, N = 0, T = 0, M = 0, A = 0;
+string S;
+
+// /Users/griffin/Sync/__currentCourses/4883-Programming_Techniques/Resources/06_Template/template1.cpp
 
 int main(int argc, char **argv) {
+    int x   = 2;
+    int max = 10;
+    int A[max];
+    int i = 0;
+    vector<int> V(10, 0);
 
-  int x = 2;
-  int max = 10;
-  int A[max];
-  int i = 0;
-  vector<int> V(10, 0);
+    sort(all(V));
 
-  sort(all(V));
+    Fill(A, i);
 
-  Fill(A, i);
+    REP(i, max) { cout << A[i] << endl; }
 
-  REP(i, max) { cout << A[i] << endl; }
+    cout << bit(x) << endl;
 
-  cout << bit(x) << endl;
-  return 0;
+    cin >> C;
+    while (i < C) {
+        cin >> N >> T >> M;
+
+        for (int m = 0; m < M; ++m) {
+        }
+        i++;
+    }
+    return 0;
 }
