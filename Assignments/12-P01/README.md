@@ -31,5 +31,6 @@ The due date ranges from the week of October 21-25 until the end of the semester
      - what discoveries did you made to get over a roadblock?
      - discuss any incorrect assumptions you may have made initially.
   4. Discuss your coded solution and any speed ups that you may have discovered.
+  5. If you do not have a solution (which is ok!) discuss your current progress and your future plans for solving the problem (even if you don't plan on solving it).
 
 More to come with questions from the class and clarifications from me.
